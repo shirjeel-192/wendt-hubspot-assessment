@@ -38,6 +38,16 @@ async function build() {
 
   const app = Fastify({ logger: false });
 
+  app.get("/", async () => ({
+    service: "wendt-hubspot-assessment middleware",
+    status: "alive",
+    endpoints: {
+      health: "GET /healthz",
+      webhook: "POST /webhook/airtable?token=<secret>",
+      manualSync: "POST /sync/:table/:id",
+    },
+    repo: "https://github.com/shirjeel-192/wendt-hubspot-assessment",
+  }));
   app.get("/healthz", async () => ({ ok: true }));
 
   app.post("/webhook/airtable", async (req: FastifyRequest, reply: FastifyReply) => {
