@@ -70,7 +70,12 @@ export function mapCompany(row: CompanyRow): MapResult {
     [EXTERNAL_ID_PROP]: externalId,
     name: coerceString("company_name", row.company_name),
     domain: coerceString("domain", row.domain),
-    industry: coerceString("industry", row.industry),
+    // HubSpot's built-in `industry` is a fixed enum (TELECOMMUNICATIONS, etc.).
+    // The CSV's human-friendly values ("Telecom", "Biotech") don't match, so
+    // we preserve them in a custom `industry_source` property instead. A
+    // separate portal-side reconciliation pass can normalise these to the
+    // canonical HubSpot industry list later if needed.
+    industry_source: coerceString("industry", row.industry),
     numberofemployees: safe(issues, () => coerceInt("number_of_employees", row.number_of_employees), "number_of_employees"),
     // custom properties (created by scripts/bootstrap_hubspot.ts)
     is_customer: boolForHubspot(safe(issues, () => coerceBool("is_customer", row.is_customer), "is_customer")),

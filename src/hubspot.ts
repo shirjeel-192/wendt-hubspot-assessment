@@ -109,13 +109,35 @@ export class HubspotClient {
     } catch (e) {
       if (!(e instanceof AxiosError) || e.response?.status !== 404) throw e;
     }
+    // HubSpot's default property groups use the SINGULAR object name:
+    //   companies -> companyinformation
+    //   contacts  -> contactinformation
+    //   deals     -> dealinformation
+    // These are the well-known defaults present on every portal.
+    const DEFAULT_GROUP: Record<ObjectType, string> = {
+      companies: "companyinformation",
+      contacts: "contactinformation",
+      deals: "dealinformation",
+    };
+
+    // Booleans in HubSpot need explicit true/false options — the SDK adds
+    // these by default, the raw API doesn't. Fill them in here so the
+    // caller doesn't have to think about it.
+    let options = definition.options;
+    if (definition.type === "bool" && (!options || options.length === 0)) {
+      options = [
+        { label: "True", value: "true" },
+        { label: "False", value: "false" },
+      ];
+    }
+
     const body = {
       name: definition.name,
       label: definition.label,
       type: definition.type,
       fieldType: definition.fieldType,
-      groupName: definition.groupName ?? `${objectType}information`,
-      options: definition.options,
+      groupName: definition.groupName ?? DEFAULT_GROUP[objectType],
+      options,
     };
     await this.http.post(`/crm/v3/properties/${objectType}`, body);
     logger.info({ objectType, name: definition.name }, "created custom property");

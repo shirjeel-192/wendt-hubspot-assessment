@@ -88,7 +88,9 @@ async function syncCompany(ctx: SyncContext, row: AirtableRow): Promise<string |
   const properties = {
     name: coerceString("Company Name", row.fields[F.name] as string),
     domain: coerceString("Domain", row.fields[F.domain] as string),
-    industry: coerceString("Industry", row.fields[F.industry] as string),
+    // See mappers.ts::mapCompany — HubSpot's built-in `industry` is a fixed
+    // enum, so free-form industry text lives in `industry_source`.
+    industry_source: coerceString("Industry", row.fields[F.industry] as string),
   };
   const existingId = row.fields[F.hubspotRecordId] as string | undefined;
   const hubspotId = await upsert(ctx.hubspot, "companies", existingId, properties);

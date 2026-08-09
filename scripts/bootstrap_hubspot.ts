@@ -32,21 +32,29 @@ async function main() {
   }
 
   // ---------- COMPANY custom props ----------
+  // Labels get "(Source)" suffix where they'd collide with HubSpot's
+  // built-in properties (e.g. dealtype has label "Deal Type" already).
   await hs.ensureCustomProperty("companies", {
     name: "is_customer",
-    label: "Is Customer",
+    label: "Is Customer (Source)",
     type: "bool",
     fieldType: "booleancheckbox",
   });
   await hs.ensureCustomProperty("companies", {
     name: "is_key_account",
-    label: "Is Key Account",
+    label: "Is Key Account (Source)",
     type: "bool",
     fieldType: "booleancheckbox",
   });
   await hs.ensureCustomProperty("companies", {
     name: "account_manager",
-    label: "Account Manager",
+    label: "Account Manager (Source)",
+    type: "string",
+    fieldType: "text",
+  });
+  await hs.ensureCustomProperty("companies", {
+    name: "industry_source",
+    label: "Industry (Source)",
     type: "string",
     fieldType: "text",
   });
@@ -61,7 +69,7 @@ async function main() {
   });
   await hs.ensureCustomProperty("companies", {
     name: "renewal_date",
-    label: "Renewal Date",
+    label: "Renewal Date (Source)",
     type: "date",
     fieldType: "date",
   });
@@ -69,26 +77,26 @@ async function main() {
   // ---------- CONTACT custom props ----------
   await hs.ensureCustomProperty("contacts", {
     name: "is_subscribed",
-    label: "Is Subscribed",
+    label: "Is Subscribed (Source)",
     type: "bool",
     fieldType: "booleancheckbox",
   });
   await hs.ensureCustomProperty("contacts", {
     name: "is_decision_maker",
-    label: "Is Decision Maker",
+    label: "Is Decision Maker (Source)",
     type: "bool",
     fieldType: "booleancheckbox",
   });
   await hs.ensureCustomProperty("contacts", {
     name: "lead_source",
-    label: "Lead Source",
+    label: "Lead Source (Source)",
     type: "enumeration",
     fieldType: "select",
     options: LEAD_SOURCES.map((v) => ({ label: v, value: v })),
   });
   await hs.ensureCustomProperty("contacts", {
     name: "preferred_contact_method",
-    label: "Preferred Contact Method",
+    label: "Preferred Contact Method (Source)",
     type: "enumeration",
     fieldType: "select",
     options: PREFERRED_CONTACT_METHODS.map((v) => ({ label: v, value: v })),
@@ -97,27 +105,27 @@ async function main() {
   // ---------- DEAL custom props ----------
   await hs.ensureCustomProperty("deals", {
     name: "is_won",
-    label: "Is Won",
+    label: "Is Won (Source)",
     type: "bool",
     fieldType: "booleancheckbox",
   });
   await hs.ensureCustomProperty("deals", {
     name: "deal_type",
-    label: "Deal Type",
+    label: "Deal Type (Source)",
     type: "enumeration",
     fieldType: "select",
     options: DEAL_TYPES.map((v) => ({ label: v, value: v })),
   });
   await hs.ensureCustomProperty("deals", {
     name: "region",
-    label: "Region",
+    label: "Region (Source)",
     type: "enumeration",
     fieldType: "select",
     options: REGIONS.map((v) => ({ label: v, value: v })),
   });
   await hs.ensureCustomProperty("deals", {
     name: "discount_percentage",
-    label: "Discount Percentage",
+    label: "Discount Percentage (Source)",
     type: "number",
     fieldType: "number",
   });

@@ -237,6 +237,9 @@ function writeAudit(): void {
 }
 
 main().catch((err) => {
-  logger.error({ err: err?.message, stack: err?.stack }, "migration failed");
+  logger.error(
+    { err: err?.message, resp: err?.response?.data, stack: err?.stack },
+    "migration failed"
+  );
   process.exit(1);
 });
