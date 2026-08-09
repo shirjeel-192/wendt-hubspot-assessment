@@ -1,0 +1,401 @@
+deal_id,deal_name,amount,deal_stage,close_date,company_id,contact_id,is_won,deal_type,region,discount_percentage
+1,Meridian Dynamics Renewal,"$48,469",closedlost,2022-06-05,184,126,0,Upsell,LATAM,20
+2,Orbit Solutions Licensing Deal,141994.39,closedwon,2021/09/07,288,34,1,New Business,LATAM,25
+3,Atlas Labs Support Contract,89084.49,contractsent,2022-02-04,164,102,False,New Business,APAC,0
+4,Lantern Holdings Upgrade,62846.75,contractsent,01/11/2022,3,237,1,Renewal,APAC,15%
+5,Beacon Dynamics - Q4 Expansion,16308.8,decisionmakerboughtin,2022-11-04,253,314,False,New Business,AMER,0
+6,Stellar Technologies Platform Deal,"$117,956",qualifiedtobuy,2023-01-23,224,116,False,New Business,APAC,10
+7,Catalyst Co Platform Deal,88035.41,closedwon,2022-02-05,195,139,1,Cross-sell,LATAM,25%
+8,Atlas LLC Distribution Agreement,53598.44,decisionmakerboughtin,2021-02-09,296,245,False,Upsell,AMER,25%
+9,Umbrella Works - Q2 Expansion,77575.17,contractsent,02/2022,31,109,True,Renewal,LATAM,25%
+10,Beacon Labs Consulting,46764.87,contractsent,2022-04-03,67,113,True,New Business,AMER,15
+11,Vector Global Distribution Agreement,65289,decisionmakerboughtin,2022-05-04,124,9,No,Cross-sell,APAC,0
+12,Lantern Global Licensing Deal,65601.24,qualifiedtobuy,2021-10-09,26,333,False,Upsell,EMEA,5%
+13,Stark Ventures Support Contract,61279.35,closedwon,2021-05-08,295,137,1,Upsell,APAC,15%
+14,Initech Group Upgrade,72036.99,closedlost,2021-02-06,178,327,0,Upsell,AMER,10
+15,Vector Networks Platform Deal,26438.04,closedlost,2022/07/11,171,234,0,New Business,APAC,15
+16,Summit Holdings Renewal,15898.88,appointmentscheduled,09-17-2021,127,242,False,Renewal,LATAM,15
+17,Wonka Ventures Distribution Agreement,128686.47,decisionmakerboughtin,2022-12-11,132,340,False,Cross-sell,EMEA,10
+18,Aperture Works Licensing Deal,146020.3,closedlost,06/2021,11,76,0,New Business,AMER,15
+19,Anchor Global Platform Deal,42160,closedlost,2022-06-13,279,231,0,Renewal,EMEA,15
+20,Initech Group Renewal,"$84,162",contractsent,2022-11-05,178,148,True,Renewal,EMEA,10%
+21,Orbit Systems Renewal,131929.59,contractsent,2022/11/27,145,304,False,Upsell,EMEA,25
+22,Fusion Networks Renewal,135720.26,qualifiedtobuy,2021-11-21,101,222,Yes,Renewal,APAC,5
+23,Horizon Enterprises Platform Deal,"$69,712",decisionmakerboughtin,2022-05-03,166,297,0,New Business,AMER,20
+24,Meridian Dynamics Consulting,21947.25,contractsent,2022/01/18,184,240,False,Upsell,APAC,5
+25,Duff Partners Licensing Deal,147939,contractsent,27/08/2023,151,28,False,New Business,APAC,20
+26,Gringotts Networks - Q2 Expansion,134362.8,closedwon,2021-09-24,32,63,1,Upsell,APAC,25
+27,Vertex LLC Support Contract,76364.87,appointmentscheduled,2023/02/08,4,249,1,New Business,APAC,15
+28,Horizon Ventures Upgrade,122963.96,closedlost,14/02/2023,121,280,0,Upsell,AMER,15
+29,Meridian LLC Distribution Agreement,63117.57,closedlost,2022-07-13,52,302,0,New Business,APAC,15%
+30,Wonka Holdings - Q4 Expansion,,appointmentscheduled,2021-08-24,298,156,False,Upsell,APAC,20
+31,Wayne Labs Licensing Deal,118217.83,qualifiedtobuy,2023-12-19,179,362,False,Renewal,LATAM,0
+32,Wonka Co Platform Deal,"$127,952.65",qualifiedtobuy,2023-10-27,193,242,False,New Business,LATAM,25
+33,Anchor Partners Platform Deal,56773.99,contractsent,04/05/2023,122,54,True,New Business,AMER,10%
+34,Meridian Group Support Contract,29652.08,decisionmakerboughtin,04/2021,69,327,False,New Business,AMER,0
+35,Soylent Corp Licensing Deal,54116.29,decisionmakerboughtin,2021-04-19,185,397,No,Upsell,EMEA,15
+36,Initech Corp Renewal,"$81,540",closedwon,2022-02-04,37,292,1,Renewal,LATAM,25
+37,Fusion Technologies Renewal,"$104,930",closedwon,2023-09-10,81,148,1,Renewal,EMEA,0
+38,Anchor Networks - Q2 Expansion,85014.57,qualifiedtobuy,2023-01-08,172,392,False,New Business,APAC,0
+39,Horizon Inc Distribution Agreement,46209.33,decisionmakerboughtin,2021/08/17,42,283,True,Upsell,EMEA,0%
+40,Fusion Networks Licensing Deal,65028.08,closedwon,2022-01-13,101,274,1,Upsell,EMEA,15%
+41,Stellar Global Support Contract,133361.97,contractsent,2021/02/19,189,181,True,New Business,EMEA,25%
+42,Prism Technologies Distribution Agreement,60274.98,decisionmakerboughtin,2023-11-08,30,65,Yes,New Business,EMEA,10
+43,Beacon Studio Distribution Agreement,"$81,671",decisionmakerboughtin,2023-04-17,183,113,False,Cross-sell,LATAM,10%
+44,Nimbus Networks Upgrade,"$143,003.70",appointmentscheduled,2021-04-23,267,119,True,Renewal,APAC,20
+45,Quantum Group Upgrade,"$65,231",contractsent,2022/08/02,44,31,No,New Business,APAC,0
+46,Wonka Partners Support Contract,83440.83,decisionmakerboughtin,2022-12-24,173,135,False,Renewal,LATAM,15
+47,Anchor Collective Platform Deal,13744.99,contractsent,2021-01-09,266,134,True,Renewal,APAC,20
+48,Wayne Works Upgrade,70499.49,appointmentscheduled,2022-03-15,186,138,False,Cross-sell,AMER,15%
+49,Vector Co Consulting,"$93,074.45",contractsent,08-05-2022,142,313,Yes,New Business,AMER,25
+50,Stark Systems Support Contract,53646.92,closedlost,2022-05-01,163,22,0,Upsell,APAC,0%
+51,Pied Piper Dynamics Support Contract,49654.54,decisionmakerboughtin,2021-11-14,262,40,False,Renewal,LATAM,25
+52,Duff Partners - Q2 Expansion,77108.63,decisionmakerboughtin,2023-01-04,151,319,0,Renewal,AMER,15
+53,Vector Group Renewal,8663.29,qualifiedtobuy,2023-12-04,77,196,False,Cross-sell,APAC,10%
+54,Summit Labs Support Contract,54920.29,qualifiedtobuy,2023-04-15,125,169,True,New Business,APAC,25
+55,Beacon Industries Platform Deal,13144.39,contractsent,2023-05-26,215,118,True,Upsell,LATAM,25
+56,Titan Global - Q2 Expansion,"$4,565.79",appointmentscheduled,2023-02-05,93,233,False,Upsell,LATAM,15
+57,Catalyst Holdings Upgrade,138187.83,decisionmakerboughtin,20/10/2023,286,124,False,Cross-sell,LATAM,25
+58,Umbrella Systems Platform Deal,56111.21,closedlost,03/09/2023,245,359,0,Cross-sell,APAC,15%
+59,Cyberdyne Collective Renewal,64576.74,decisionmakerboughtin,2023-09-17,144,396,True,Renewal,AMER,5%
+60,Horizon Labs Upgrade,26228.79,appointmentscheduled,2021-05-09,108,221,True,Renewal,EMEA,5
+61,Zenith Ventures Platform Deal,,closedwon,2021-09-18,106,283,1,New Business,APAC,5
+62,Initech Dynamics Distribution Agreement,"$13,942",contractsent,2023/12/28,219,375,True,New Business,APAC,0
+63,Nimbus Studio Platform Deal,15965.38,decisionmakerboughtin,2023-12-11,39,168,True,Renewal,AMER,20
+64,Summit Inc - Q2 Expansion,28878.62,qualifiedtobuy,2023-04-09,19,325,True,Upsell,AMER,25
+65,Nimbus Enterprises Licensing Deal,57663.24,contractsent,2023-03-02,110,2,True,Renewal,LATAM,20
+66,Catalyst Labs Upgrade,17742.75,contractsent,2023-06-18,154,119,False,Renewal,LATAM,15
+67,Ember LLC Distribution Agreement,132443.55,closedlost,2021-06-23,60,91,0,Cross-sell,LATAM,25%
+68,Globex Ventures Licensing Deal,66850.78,closedwon,2022-05-22,260,111,1,New Business,APAC,15
+69,Stark Dynamics Distribution Agreement,92382.29,qualifiedtobuy,2023-04-25,24,158,True,New Business,EMEA,15%
+70,Stark Group Renewal,59933.42,closedwon,06-18-2021,181,393,1,Renewal,AMER,10
+71,Pied Piper Corp - Q1 Expansion,43180,closedwon,2021-09-13,128,7,1,Upsell,EMEA,10
+72,Horizon Systems Licensing Deal,111655.15,closedlost,2022/02/03,194,336,0,Upsell,EMEA,25
+73,Nimbus Solutions Licensing Deal,65000.65,decisionmakerboughtin,2021-05-21,160,166,True,Cross-sell,APAC,15
+74,Globex Ventures Licensing Deal,4708.89,contractsent,2023-12-04,260,126,False,Cross-sell,APAC,15
+75,Vector Networks Renewal,13499.43,closedwon,2021-04-28,171,74,1,Cross-sell,AMER,0
+76,Nimbus Solutions Consulting,82292.72,appointmentscheduled,05/2021,160,380,False,Upsell,APAC,15
+77,Horizon Inc Licensing Deal,"$145,815",contractsent,09-24-2021,42,54,1,Cross-sell,AMER,25
+78,Hooli Systems Licensing Deal,56373.14,decisionmakerboughtin,2023-11-09,281,215,Yes,Upsell,APAC,20
+79,Duff Solutions Upgrade,107547.13,contractsent,2023-12-28,191,266,Yes,Renewal,LATAM,5%
+80,Lantern Holdings Support Contract,"$70,835",closedlost,2021-09-15,3,160,0,Upsell,APAC,25%
+81,Quantum Inc Upgrade,12543,closedwon,2022-05-18,146,219,1,Upsell,APAC,5
+82,Compass Inc Licensing Deal,92767.19,closedwon,2023-10-09,268,301,1,Upsell,AMER,0
+83,Wayne Systems Platform Deal,71281.67,qualifiedtobuy,2022/02/02,47,315,True,New Business,AMER,20
+84,Meridian Enterprises Upgrade,125207.14,closedwon,10-27-2021,243,182,1,Cross-sell,LATAM,15
+85,Meridian Collective Licensing Deal,84409.31,qualifiedtobuy,2022-11-12,62,286,Yes,Upsell,LATAM,10%
+86,Anchor Solutions Distribution Agreement,55961.25,closedwon,2021-01-19,6,101,1,New Business,APAC,0
+87,Oscorp Enterprises Upgrade,95203.77,closedlost,2021/10/27,204,23,0,Cross-sell,EMEA,0
+88,Stark Collective Platform Deal,128825.66,appointmentscheduled,2021-08-21,79,362,True,Upsell,EMEA,10
+89,Stark Systems Platform Deal,10161,closedwon,2021-11-13,163,364,1,Upsell,APAC,0%
+90,Pied Piper Industries Licensing Deal,51876.42,closedlost,2023-01-10,102,353,0,New Business,LATAM,0%
+91,Oscorp Partners Consulting,102452.7,qualifiedtobuy,06-15-2023,45,96,True,Upsell,AMER,10%
+92,Nimbus Dynamics Platform Deal,"$66,500",contractsent,2022-04-06,92,143,0,Renewal,APAC,25
+93,Quantum Co Licensing Deal,102620.65,closedwon,2023-04-23,88,19,1,Renewal,APAC,0
+94,Pied Piper Technologies Upgrade,57308.61,appointmentscheduled,2022-03-15,112,240,True,New Business,APAC,25%
+95,Summit Systems Licensing Deal,4240.75,decisionmakerboughtin,06/2021,5,82,True,Cross-sell,LATAM,25
+96,Vertex Ventures Consulting,17070.44,contractsent,2021-04-25,130,371,False,Renewal,LATAM,20%
+97,Catalyst Labs Support Contract,"$69,348.31",qualifiedtobuy,2021-05-26,154,306,True,Upsell,AMER,5
+98,Horizon Ventures Licensing Deal,"$1,736.77",closedlost,2021-03-22,121,105,0,Cross-sell,LATAM,25%
+99,Wonka Co Support Contract,64264.27,contractsent,2022-06-10,193,238,0,New Business,APAC,15
+100,Nova Group Platform Deal,35280.95,decisionmakerboughtin,2023-10-25,14,114,True,New Business,AMER,10
+101,Titan Global Platform Deal,125300.64,decisionmakerboughtin,2021/05/14,93,218,False,New Business,APAC,25
+102,Oscorp Studio Platform Deal,60853.81,qualifiedtobuy,2023-08-01,208,7,False,Renewal,LATAM,10
+103,Titan Dynamics Consulting,80225.03,closedlost,09-12-2022,231,258,0,New Business,AMER,0
+104,Apex Studio Distribution Agreement,103271.76,appointmentscheduled,2021-08-15,133,102,True,Renewal,APAC,0
+105,Beacon Studio - Q4 Expansion,60035,decisionmakerboughtin,2023-02-12,183,214,True,New Business,AMER,25%
+106,Nimbus Holdings Distribution Agreement,22865.82,closedlost,2023/10/15,141,177,0,New Business,LATAM,20
+107,Meridian Systems Licensing Deal,"$65,581.86",qualifiedtobuy,2023-11-24,155,217,False,Renewal,APAC,20
+108,Summit Labs - Q3 Expansion,103640,closedwon,2022-04-25,125,356,1,New Business,LATAM,5
+109,Atlas Corp - Q4 Expansion,"$95,593.64",closedlost,2021-05-09,209,107,0,New Business,APAC,5%
+110,Vertex Group Licensing Deal,123571,closedwon,2022/08/18,236,302,1,Cross-sell,AMER,20
+111,Nova Partners - Q1 Expansion,44481.63,closedlost,09/2022,131,207,0,Cross-sell,EMEA,5
+112,Stark Group Licensing Deal,81101.31,appointmentscheduled,2023-12-16,181,290,False,New Business,EMEA,15%
+113,Oscorp Collective Platform Deal,135168.38,closedlost,2022-09-14,293,149,0,Renewal,EMEA,25
+114,Stark Systems Licensing Deal,43972.76,contractsent,2022-08-06,163,258,False,Renewal,LATAM,25%
+115,Sirius Group Licensing Deal,12995.37,contractsent,2023-04-05,197,298,1,Cross-sell,EMEA,10
+116,Nova Global Renewal,108735.96,appointmentscheduled,09-28-2023,242,351,False,Cross-sell,AMER,10%
+117,Vertex Technologies Distribution Agreement,90997.01,qualifiedtobuy,2021-03-15,16,106,False,Upsell,AMER,15
+118,Umbrella Global Licensing Deal,"$80,591",contractsent,12/2022,17,350,No,New Business,APAC,15
+119,Umbrella LLC Licensing Deal,"$17,655",contractsent,2021-05-25,21,187,True,Renewal,AMER,5
+120,Atlas Group Renewal,67256.14,closedlost,2022-04-25,50,169,0,Renewal,APAC,20%
+121,Compass Inc - Q2 Expansion,107248.75,decisionmakerboughtin,2022-12-06,268,148,False,Upsell,AMER,5
+122,Wonka Ventures Support Contract,130664.65,qualifiedtobuy,2023-01-09,132,327,True,Cross-sell,AMER,10
+123,Apex Partners Consulting,47086.93,contractsent,13/08/2021,257,161,False,Renewal,EMEA,25%
+124,Quantum Labs - Q2 Expansion,76605.06,closedlost,22/06/2021,292,327,0,New Business,EMEA,15
+125,Wonka Ventures Platform Deal,111723.46,qualifiedtobuy,2021-01-20,132,379,False,New Business,AMER,20
+126,Summit Labs Distribution Agreement,71929,appointmentscheduled,03/11/2022,125,300,True,Upsell,LATAM,10
+127,Fusion Co Distribution Agreement,,closedwon,2023-10-25,58,369,1,Cross-sell,APAC,15
+128,Acme Global Upgrade,66566.53,decisionmakerboughtin,2022-05-22,248,264,True,Upsell,LATAM,0
+129,Pied Piper Networks Platform Deal,28215.7,appointmentscheduled,2021-08-11,241,254,False,Upsell,AMER,10
+130,Zenith Labs Renewal,"$60,039.76",closedwon,10-22-2021,272,242,1,Upsell,APAC,20
+131,Apex Enterprises Upgrade,112036.88,decisionmakerboughtin,2022-03-10,214,400,False,Cross-sell,LATAM,15%
+132,Catalyst Networks Consulting,"$125,050",contractsent,2023-04-07,29,210,True,Cross-sell,APAC,20
+133,Soylent Partners Distribution Agreement,142854.76,appointmentscheduled,2022-12-16,111,317,0,Cross-sell,LATAM,5
+134,Wonka Co Renewal,17543,closedlost,2022-05-18,193,31,0,New Business,APAC,25
+135,Pied Piper Works Upgrade,99442.93,closedwon,2021-08-08,78,302,1,Renewal,EMEA,5
+136,Anchor Inc Distribution Agreement,"$112,399.89",qualifiedtobuy,2022/06/11,161,185,True,Cross-sell,LATAM,15
+137,Stark Global Consulting,81282.6,closedwon,2022-01-17,271,31,1,Renewal,EMEA,25%
+138,Catalyst Holdings Renewal,113034.2,closedwon,2021-10-15,286,400,1,Cross-sell,APAC,15
+139,Pied Piper Works Consulting,65427,qualifiedtobuy,2022-09-25,78,334,False,Renewal,EMEA,20
+140,Orbit Co Licensing Deal,86591.32,decisionmakerboughtin,2023-08-21,116,166,False,Upsell,AMER,5%
+141,Nova Group - Q2 Expansion,99066.89,closedwon,2022-02-11,14,274,1,Upsell,LATAM,10%
+142,Massive Technologies Platform Deal,57682.07,appointmentscheduled,2021-08-28,182,14,False,Cross-sell,AMER,5
+143,Stellar Corp Platform Deal,62854.05,qualifiedtobuy,2022-12-20,64,48,True,New Business,APAC,15
+144,Sirius Works - Q4 Expansion,127323.42,contractsent,2022-06-10,234,9,True,New Business,LATAM,15%
+145,Horizon Enterprises Platform Deal,10116.04,qualifiedtobuy,2023-03-05,166,24,True,Renewal,APAC,20
+146,Wayne Studio Platform Deal,136438.15,decisionmakerboughtin,2021/01/16,89,90,True,Renewal,EMEA,0
+147,Sirius Inc Platform Deal,"$63,562",appointmentscheduled,2021-02-01,18,377,True,Cross-sell,LATAM,20
+148,Hooli Corp Distribution Agreement,"$127,943.30",decisionmakerboughtin,2023/11/23,1,160,Yes,Upsell,AMER,5
+149,Gringotts Technologies Renewal,86997.9,qualifiedtobuy,2022-12-15,207,145,False,Upsell,APAC,15
+150,Sirius Inc Licensing Deal,"$60,117",qualifiedtobuy,2021-11-02,18,383,True,Cross-sell,APAC,5
+151,Atlas LLC Distribution Agreement,51265.2,contractsent,2021-12-09,296,208,False,Upsell,APAC,10
+152,Massive Networks Renewal,"$144,748.28",closedwon,2022-02-26,282,234,1,Cross-sell,EMEA,0
+153,Initech Group Distribution Agreement,149783,closedwon,2021-09-06,178,158,1,Upsell,EMEA,5
+154,Pied Piper Works - Q3 Expansion,25679.69,closedwon,12-17-2021,78,289,1,Upsell,AMER,20
+155,Nova Holdings - Q4 Expansion,,decisionmakerboughtin,2022/08/11,104,143,False,Renewal,APAC,5
+156,Nova Dynamics Licensing Deal,29812.32,qualifiedtobuy,2021/07/26,35,31,True,New Business,AMER,10%
+157,Beacon Ventures Platform Deal,115977.05,contractsent,2022/01/21,300,345,Yes,Upsell,LATAM,10
+158,Nova Networks Renewal,26099.95,decisionmakerboughtin,2022-05-04,233,79,True,Cross-sell,APAC,5
+159,Wayne Works Distribution Agreement,76665.71,contractsent,2022-12-24,186,124,1,Renewal,APAC,0%
+160,Catalyst Dynamics Distribution Agreement,125774.39,closedwon,2022/11/09,249,125,1,Cross-sell,EMEA,20%
+161,Duff Collective Renewal,86428.39,qualifiedtobuy,2022/12/24,51,295,False,Cross-sell,LATAM,25
+162,Titan Global Consulting,102768.74,decisionmakerboughtin,2023-08-28,93,13,True,Upsell,APAC,15
+163,Hooli Inc Platform Deal,"$117,364",closedwon,2023-11-11,135,394,1,New Business,APAC,10
+164,Wonka Enterprises Upgrade,28742.63,closedlost,2021-11-13,117,163,0,Renewal,LATAM,10
+165,Wayne Works Platform Deal,113758.82,decisionmakerboughtin,2023-05-17,186,387,0,Cross-sell,EMEA,5%
+166,Oscorp Studio Platform Deal,143455.17,closedwon,2022-07-05,208,135,1,Renewal,EMEA,10
+167,Umbrella LLC Platform Deal,2850.33,appointmentscheduled,2021-04-15,21,126,True,New Business,LATAM,15
+168,Initech Global Licensing Deal,58678.47,closedwon,2023-07-21,291,99,1,Renewal,APAC,15
+169,Horizon Ventures Consulting,119538.0,closedlost,2021-06-28,121,164,0,New Business,LATAM,20
+170,Wonka Enterprises Consulting,143021,contractsent,2022-10-15,117,369,True,Cross-sell,EMEA,10
+171,Pied Piper Co Consulting,107328.22,closedlost,2022-10-09,33,350,0,Upsell,LATAM,5
+172,Apex Group Support Contract,18832.82,qualifiedtobuy,2021-10-02,156,170,False,New Business,LATAM,25%
+173,Nimbus Dynamics - Q4 Expansion,142405.45,closedlost,2021/06/03,92,93,0,Cross-sell,LATAM,25
+174,Nova Studio Upgrade,53328.9,qualifiedtobuy,2022-02-06,94,50,False,New Business,APAC,15
+175,Aperture Works - Q1 Expansion,,closedlost,02/2022,11,311,0,Renewal,LATAM,10%
+176,Wonka Systems Renewal,"$102,793",qualifiedtobuy,2021-09-07,289,192,False,Upsell,LATAM,25
+177,Globex Ventures Distribution Agreement,47438.14,closedwon,2021-09-26,260,77,1,Renewal,AMER,20
+178,Compass Holdings Platform Deal,55488.33,contractsent,2022-02-22,255,99,False,Cross-sell,AMER,15%
+179,Beacon Global Renewal,78729.25,closedlost,2023-06-17,246,338,0,Upsell,APAC,10%
+180,Oscorp Group Licensing Deal,58932.49,contractsent,2021-08-04,150,321,False,Renewal,EMEA,20
+181,Cobalt Ventures Platform Deal,53413.08,closedlost,2021/09/01,46,158,0,Cross-sell,AMER,20
+182,Nimbus Enterprises Distribution Agreement,138390.86,qualifiedtobuy,04/2023,110,51,True,New Business,APAC,0
+183,Summit Enterprises Licensing Deal,39469.61,decisionmakerboughtin,2021-03-05,170,91,False,Renewal,AMER,25
+184,Anchor Solutions Licensing Deal,115301,decisionmakerboughtin,2022/05/20,6,213,True,Upsell,EMEA,25%
+185,Beacon Networks Platform Deal,43421.02,qualifiedtobuy,2023-12-23,251,35,False,New Business,EMEA,15
+186,Oscorp Partners Distribution Agreement,28487.27,qualifiedtobuy,04/08/2022,45,285,True,New Business,AMER,15
+187,Catalyst Collective - Q2 Expansion,138354.13,qualifiedtobuy,2023-01-05,74,227,True,Upsell,EMEA,15
+188,Summit Works Support Contract,66639.04,closedlost,2021-06-22,259,33,0,Renewal,AMER,5
+189,Fusion Co Renewal,"$48,926.78",closedwon,2023-01-20,58,351,1,Upsell,EMEA,15%
+190,Cyberdyne Dynamics Renewal,97073.73,closedlost,2021/10/18,199,394,0,Cross-sell,LATAM,25%
+191,Oscorp Technologies Distribution Agreement,145138.13,qualifiedtobuy,2021-03-10,129,177,False,Upsell,APAC,25%
+192,Catalyst Collective Distribution Agreement,61463.06,closedlost,2023/04/13,74,22,0,Cross-sell,LATAM,15
+193,Wonka Partners Licensing Deal,142252.75,closedlost,04-08-2023,173,167,0,Renewal,LATAM,20
+194,Soylent Ventures Upgrade,116412.07,contractsent,2023-11-15,192,330,1,New Business,AMER,5
+195,Sirius Group Licensing Deal,96544.48,contractsent,10/2022,197,265,0,Upsell,AMER,15
+196,Beacon Labs Distribution Agreement,"$15,462.63",closedwon,2023-09-24,67,391,1,New Business,EMEA,10
+197,Beacon Studio Platform Deal,"$51,454",decisionmakerboughtin,2023-06-19,183,104,False,New Business,AMER,5%
+198,Fusion Group Distribution Agreement,"$15,463",closedlost,2021-02-22,210,82,0,Cross-sell,LATAM,15%
+199,Wayne Works Platform Deal,101928.6,appointmentscheduled,02-12-2022,186,226,False,New Business,AMER,25
+200,Nimbus Collective Distribution Agreement,77500.0,closedwon,2023-07-06,43,182,1,New Business,LATAM,10
+201,Umbrella Collective Upgrade,99252.17,contractsent,2021-05-24,123,359,False,New Business,AMER,20%
+202,Meridian Systems Support Contract,149054.31,contractsent,2023-07-11,155,195,False,Renewal,AMER,10
+203,Beacon Networks Upgrade,121802.51,contractsent,2023-06-28,251,145,True,New Business,AMER,0%
+204,Oscorp Collective Renewal,145397.35,appointmentscheduled,2023-02-05,293,122,False,Renewal,EMEA,20%
+205,Cyberdyne Industries Renewal,107829.9,appointmentscheduled,2021-07-26,103,382,True,Upsell,LATAM,5
+206,Cyberdyne Studio Upgrade,"$86,739.68",contractsent,2021-03-07,96,241,1,New Business,AMER,5
+207,Wonka Enterprises Licensing Deal,123845.82,closedwon,2022-09-21,117,84,1,New Business,APAC,10
+208,Pied Piper Co Consulting,2787.84,closedwon,2022-02-22,33,253,1,New Business,APAC,20
+209,Anchor Dynamics Upgrade,149865,contractsent,2022-08-10,34,292,False,Upsell,EMEA,25
+210,Acme Corp Licensing Deal,118451.53,contractsent,2023-07-14,237,167,True,Upsell,LATAM,10%
+211,Wayne Studio Platform Deal,46224.8,appointmentscheduled,2021/05/11,89,78,No,Renewal,AMER,5
+212,Wonka Labs Platform Deal,91564,closedlost,2021/06/04,222,223,0,Cross-sell,AMER,15
+213,Titan Networks Upgrade,56629.85,closedwon,2021-10-05,82,174,1,Upsell,APAC,20
+214,Cobalt Inc Licensing Deal,87005.75,qualifiedtobuy,2022-11-16,229,190,True,Upsell,AMER,10
+215,Aperture Collective Support Contract,48926.58,contractsent,2022-09-04,118,363,True,Cross-sell,APAC,0
+216,Vector Co Platform Deal,84719.81,appointmentscheduled,2023-01-11,142,365,True,Renewal,LATAM,10
+217,Titan LLC Renewal,37985.74,closedlost,2021-12-07,97,306,0,New Business,APAC,10%
+218,Summit Corp Licensing Deal,"$114,010",decisionmakerboughtin,2022-11-13,15,334,True,Cross-sell,APAC,5
+219,Catalyst Works Platform Deal,94704.66,appointmentscheduled,2023/08/12,84,301,Yes,Cross-sell,AMER,10
+220,Orbit Systems - Q1 Expansion,"$21,846.80",closedlost,2023-12-05,145,166,0,Upsell,EMEA,10
+221,Nova Inc Renewal,"$67,826",contractsent,23/07/2023,212,176,False,Upsell,AMER,0
+222,Apex Technologies Support Contract,95515.26,appointmentscheduled,2021-03-17,27,330,0,Renewal,LATAM,0
+223,Massive Networks - Q2 Expansion,,closedwon,2021-04-08,282,35,1,New Business,APAC,20
+224,Ember Partners - Q3 Expansion,49731.65,decisionmakerboughtin,2021-04-25,109,78,False,New Business,APAC,15%
+225,Acme Collective Licensing Deal,45492.86,qualifiedtobuy,12/2021,263,395,No,Upsell,APAC,10
+226,Aperture Collective Upgrade,31746.55,closedwon,05-01-2021,118,291,1,Cross-sell,APAC,15
+227,Hooli Dynamics Distribution Agreement,93272.23,closedlost,20/02/2021,85,252,0,Renewal,EMEA,10
+228,Titan Networks - Q3 Expansion,"$45,323.02",qualifiedtobuy,2023-06-03,82,50,False,Renewal,AMER,10
+229,Wayne Technologies - Q4 Expansion,84059.28,qualifiedtobuy,2023-04-15,105,62,1,Cross-sell,EMEA,25
+230,Oscorp Enterprises Licensing Deal,10388.53,appointmentscheduled,2022-03-01,204,348,False,Renewal,APAC,25
+231,Wonka Networks Upgrade,84282.72,qualifiedtobuy,2023-01-28,13,344,True,Upsell,EMEA,10
+232,Sirius Works Platform Deal,96257.81,closedlost,2022-12-18,234,242,0,Cross-sell,APAC,15
+233,Prism Global Distribution Agreement,70516.72,decisionmakerboughtin,2023-05-05,76,345,True,Upsell,EMEA,10
+234,Meridian Ventures Consulting,63427,closedwon,2021-04-27,75,307,1,New Business,EMEA,20%
+235,Hooli Dynamics Support Contract,86975.9,contractsent,2023-07-17,85,379,Yes,New Business,AMER,25
+236,Titan LLC - Q1 Expansion,32177.36,contractsent,2023-05-08,97,367,1,Upsell,EMEA,0%
+237,Cyberdyne Studio Renewal,45732.11,decisionmakerboughtin,2022-06-22,96,398,True,Upsell,APAC,15
+238,Summit Industries Distribution Agreement,81313,contractsent,2022-12-16,22,348,True,Renewal,LATAM,0
+239,Oscorp Partners Upgrade,70922.65,appointmentscheduled,2022-07-24,45,244,1,Cross-sell,AMER,20
+240,Unknown Co - Q4 Expansion,98401,appointmentscheduled,2022-12-19,304,304,False,New Business,LATAM,5
+241,Catalyst Works Upgrade,,contractsent,2021-04-16,84,21,0,Upsell,LATAM,0
+242,Nimbus Systems Support Contract,66276.5,closedlost,02/2021,299,253,0,Cross-sell,EMEA,25
+243,Anchor Global Licensing Deal,54288.75,appointmentscheduled,2021-02-03,279,55,False,Upsell,AMER,0%
+244,Cyberdyne Studio Support Contract,"$118,709",closedlost,2023-06-18,96,341,0,New Business,EMEA,5%
+245,Meridian Technologies Consulting,2319.77,closedwon,2021-02-17,201,6,1,Upsell,APAC,5
+246,Titan LLC Distribution Agreement,11566.86,contractsent,2022-09-21,97,340,0,Upsell,EMEA,15
+247,Cobalt Labs Support Contract,65348.78,closedlost,2022-04-27,290,85,0,Cross-sell,EMEA,5
+248,Meridian Technologies Support Contract,116191.78,contractsent,11/2023,201,231,False,New Business,LATAM,0
+249,Meridian Ventures - Q3 Expansion,137979.69,decisionmakerboughtin,2023-06-10,75,396,False,Cross-sell,LATAM,15
+250,Hooli Holdings Platform Deal,94739.08,decisionmakerboughtin,2022-09-17,287,350,No,Renewal,AMER,10
+251,Umbrella Collective Support Contract,100783,decisionmakerboughtin,2023-11-14,123,290,Yes,Upsell,APAC,5
+252,Fusion Labs Consulting,31654.34,contractsent,2021-12-24,278,284,True,Renewal,AMER,25
+253,Meridian Technologies Upgrade,145010.54,closedwon,2022-03-09,201,248,1,Cross-sell,EMEA,0%
+254,Atlas Systems Upgrade,"$18,797",qualifiedtobuy,2023/08/20,254,233,False,New Business,EMEA,0
+255,Nimbus Ventures Renewal,43344.03,qualifiedtobuy,2021-02-11,138,66,1,Upsell,APAC,20
+256,Soylent Industries Consulting,111327.96,qualifiedtobuy,09-20-2021,12,284,False,Renewal,LATAM,0%
+257,Anchor Industries Distribution Agreement,129273.39,qualifiedtobuy,2021-01-08,114,124,False,Cross-sell,AMER,5%
+258,Duff Labs Platform Deal,101323.36,closedwon,2022-01-18,228,227,1,Renewal,APAC,0
+259,Duff Works Support Contract,38066.08,qualifiedtobuy,2021/07/07,227,311,False,Upsell,LATAM,20
+260,Wonka Systems Renewal,74152.66,closedlost,2021-07-19,289,125,0,Cross-sell,EMEA,15
+261,Acme Enterprises Distribution Agreement,137461,qualifiedtobuy,07-12-2021,188,134,0,New Business,APAC,0
+262,Vector Group Platform Deal,14748,decisionmakerboughtin,10/07/2021,77,151,True,Upsell,APAC,20
+263,Nova Systems - Q2 Expansion,117688.39,closedwon,2023-02-03,86,121,1,Cross-sell,APAC,25%
+264,Cyberdyne Studio - Q3 Expansion,70890.97,qualifiedtobuy,2023-09-02,96,126,True,Upsell,APAC,20
+265,Nova Networks Renewal,74003.52,qualifiedtobuy,2021/07/05,233,90,True,Cross-sell,LATAM,25
+266,Atlas LLC Licensing Deal,"$6,426",closedwon,2022-03-17,296,368,1,Renewal,EMEA,20
+267,Catalyst Labs - Q3 Expansion,129914.38,contractsent,2021-07-25,154,192,1,Upsell,APAC,15%
+268,Wonka Enterprises Upgrade,22685.08,contractsent,15/04/2022,117,225,False,New Business,APAC,10%
+269,Oscorp Corp Licensing Deal,140162.6,closedwon,2022-06-27,198,335,1,Cross-sell,EMEA,10
+270,Globex Ventures - Q1 Expansion,67805.44,qualifiedtobuy,01/2021,260,85,False,Cross-sell,APAC,20
+271,Meridian Solutions Renewal,"$149,798",contractsent,2023-09-24,265,300,True,Renewal,LATAM,25
+272,Globex Co Support Contract,143080,closedwon,13/05/2022,73,391,1,Upsell,LATAM,5
+273,Horizon Labs Renewal,101219,appointmentscheduled,2021-04-15,108,1,False,Cross-sell,APAC,20
+274,Pied Piper Networks Consulting,102707.61,closedwon,2021-11-22,241,133,1,Upsell,AMER,0
+275,Compass Industries Distribution Agreement,33623.93,appointmentscheduled,02-27-2022,261,154,False,Cross-sell,AMER,0
+276,Nova Inc Licensing Deal,"$139,333",closedwon,05/2022,212,381,1,New Business,LATAM,15
+277,Meridian Enterprises Consulting,43683.67,appointmentscheduled,2022/07/19,243,16,False,Upsell,APAC,5
+278,Nimbus Collective Renewal,140221.76,closedlost,2021-03-18,43,52,0,Upsell,EMEA,0
+279,Oscorp Group Consulting,"$6,887.54",appointmentscheduled,2022-02-02,150,188,Yes,Upsell,LATAM,15%
+280,Duff Networks Upgrade,91366.05,appointmentscheduled,2021-11-25,270,37,False,New Business,LATAM,10
+281,Nimbus Co Upgrade,147705.2,closedlost,2023-07-14,232,184,0,Renewal,AMER,5
+282,Summit Inc - Q1 Expansion,87311.28,qualifiedtobuy,2021/03/24,19,41,No,Cross-sell,LATAM,0
+283,Oscorp Networks Upgrade,126327.08,contractsent,2021-07-07,283,374,False,Cross-sell,AMER,15
+284,Horizon Enterprises Platform Deal,85418.74,closedlost,2023-07-22,166,231,0,New Business,AMER,10
+285,Anchor Networks - Q2 Expansion,95099.16,qualifiedtobuy,24/04/2022,172,76,False,Renewal,APAC,0%
+286,Apex Partners Support Contract,92221.45,decisionmakerboughtin,2023-07-17,257,104,False,New Business,LATAM,25
+287,Sirius Works Upgrade,35410.84,appointmentscheduled,2022-07-15,234,23,True,Upsell,LATAM,10
+288,Beacon Partners Upgrade,65071.6,decisionmakerboughtin,2021-04-27,20,118,0,Renewal,LATAM,0
+289,Zenith Works - Q4 Expansion,128429.85,closedwon,2021-09-22,157,394,1,Cross-sell,APAC,5
+290,Quantum Holdings Consulting,62920.77,contractsent,2023/12/09,220,41,0,Upsell,AMER,10%
+291,Lantern Studio Renewal,"$41,237",qualifiedtobuy,2021-02-25,159,278,True,Renewal,EMEA,20
+292,Pied Piper Enterprises Renewal,"$58,794",closedlost,26/05/2023,239,262,0,New Business,EMEA,0%
+293,Compass Inc Support Contract,65427.83,closedlost,2022-01-11,268,354,0,Cross-sell,AMER,5%
+294,Nova Dynamics Support Contract,7252.73,closedwon,2022-07-11,35,382,1,New Business,APAC,0
+295,Gringotts Studio - Q3 Expansion,71541.04,contractsent,2023-09-18,174,213,1,Renewal,EMEA,20
+296,Stark Systems Upgrade,39483.93,decisionmakerboughtin,2021-05-22,163,126,1,Upsell,APAC,10
+297,Zenith Labs Renewal,130556.23,decisionmakerboughtin,2021-01-10,272,187,False,New Business,APAC,0%
+298,Vector Networks Renewal,126378.61,closedwon,26/10/2021,171,163,1,New Business,APAC,20
+299,Gringotts Technologies - Q3 Expansion,"$88,657",contractsent,02/12/2022,207,386,Yes,New Business,LATAM,10
+300,Titan Networks Support Contract,143636.44,decisionmakerboughtin,01-16-2023,82,303,1,Upsell,LATAM,0
+301,Atlas LLC Support Contract,79639.39,closedwon,2021/01/14,296,374,1,Cross-sell,LATAM,20
+302,Stellar Corp Licensing Deal,29483.58,closedlost,2023-08-01,64,362,0,Upsell,AMER,25
+303,Pied Piper Corp - Q2 Expansion,"$17,779.42",qualifiedtobuy,2023-07-05,128,68,True,New Business,EMEA,15%
+304,Catalyst Collective Renewal,"$128,805",decisionmakerboughtin,2023-09-22,74,76,False,Renewal,AMER,25
+305,Beacon Networks Upgrade,112500.32,appointmentscheduled,2022-03-02,251,251,False,Upsell,LATAM,0
+306,Cyberdyne Collective Licensing Deal,30937.68,contractsent,2023-08-12,144,91,True,Cross-sell,LATAM,10%
+307,Meridian Group Support Contract,15726.36,contractsent,2021-05-24,69,9,0,Renewal,LATAM,0%
+308,Duff Group Upgrade,103756.03,qualifiedtobuy,17/08/2023,55,124,True,Renewal,EMEA,15%
+309,Zenith Works Licensing Deal,144137.44,closedlost,2022-10-07,157,370,0,Renewal,EMEA,15
+310,Beacon Holdings - Q3 Expansion,12363.97,decisionmakerboughtin,06/2023,126,167,True,Upsell,AMER,15
+311,Nova Inc Renewal,15431.57,closedlost,08-23-2023,212,274,0,Cross-sell,EMEA,10
+312,Horizon Labs Consulting,112216.24,closedwon,2021-02-26,108,48,1,Upsell,EMEA,15
+313,Vertex LLC Support Contract,54178.05,decisionmakerboughtin,2023-05-01,4,251,0,Upsell,EMEA,25%
+314,Aperture Works Upgrade,"$44,955",qualifiedtobuy,01-24-2023,11,342,True,Upsell,AMER,0%
+315,Wayne Technologies Upgrade,102981.51,qualifiedtobuy,01/07/2022,105,188,True,New Business,EMEA,5%
+316,Pied Piper LLC Support Contract,85526.75,decisionmakerboughtin,2022-03-27,56,223,False,Cross-sell,AMER,20
+317,Sirius Co Support Contract,104483.13,qualifiedtobuy,2023-08-03,162,134,False,Upsell,EMEA,20
+318,Wonka Holdings Platform Deal,8562.97,closedwon,2021-09-08,298,365,1,New Business,AMER,20
+319,Prism Studio Upgrade,120627.64,decisionmakerboughtin,2021-07-16,276,48,True,New Business,AMER,20
+320,Anchor Labs Consulting,103941.65,qualifiedtobuy,25/01/2021,280,42,False,New Business,EMEA,10%
+321,Beacon Ventures Renewal,112522.29,contractsent,2022-09-21,300,42,True,Upsell,APAC,10
+322,Summit Works Upgrade,78811.1,decisionmakerboughtin,2023-11-19,259,331,0,Upsell,AMER,10
+323,Anchor Inc Distribution Agreement,,closedwon,01/08/2022,161,195,1,Renewal,AMER,15
+324,Wayne Works Upgrade,148609.46,contractsent,2021-07-05,186,371,True,New Business,APAC,10
+325,Wonka Co - Q1 Expansion,92517.11,closedlost,2022/01/14,193,374,0,Renewal,EMEA,20
+326,Duff Networks Platform Deal,83813.22,appointmentscheduled,2021-07-09,270,95,True,New Business,APAC,25
+327,Nova LLC Distribution Agreement,37091.85,qualifiedtobuy,2023-04-17,91,281,False,Upsell,LATAM,20
+328,Compass Inc Upgrade,79719.84,decisionmakerboughtin,2022-12-05,268,293,0,Renewal,APAC,0
+329,Orbit Networks Licensing Deal,101686.89,decisionmakerboughtin,2022-01-06,200,150,False,Upsell,APAC,5
+330,Soylent Industries Renewal,"$137,524.89",contractsent,2022-09-19,12,343,False,New Business,APAC,5
+331,Nimbus Dynamics Consulting,44415.06,contractsent,11/12/2023,92,142,True,Upsell,AMER,10%
+332,Sirius Co Renewal,68756.84,closedlost,26/03/2021,162,363,0,New Business,EMEA,20
+333,Wayne Systems Support Contract,143475.38,qualifiedtobuy,2021-01-14,47,324,Yes,Cross-sell,APAC,15%
+334,Atlas Corp - Q1 Expansion,82911.32,qualifiedtobuy,2021-10-04,209,399,1,New Business,AMER,25
+335,Compass Holdings Upgrade,91851.65,closedlost,2022-01-20,255,136,0,New Business,EMEA,10
+336,Duff Networks Upgrade,125871.72,closedwon,2022-04-08,270,328,1,Cross-sell,AMER,5
+337,Soylent Partners Platform Deal,128734.31,qualifiedtobuy,03/07/2022,111,311,False,Cross-sell,EMEA,10
+338,Wonka Partners Distribution Agreement,127134.01,contractsent,12-04-2023,173,122,True,Upsell,EMEA,20
+339,Oscorp Enterprises Renewal,38850.01,contractsent,06-24-2021,204,312,No,New Business,LATAM,20
+340,Pied Piper LLC Distribution Agreement,44269.72,closedwon,03/2023,56,249,1,New Business,AMER,10
+341,Unknown Co Support Contract,"$19,496",decisionmakerboughtin,2022/01/07,312,230,0,Cross-sell,EMEA,20
+342,Cobalt Labs Renewal,113676.59,decisionmakerboughtin,2023-08-09,290,298,True,Cross-sell,LATAM,25
+343,Sirius Works Upgrade,22892.85,closedwon,2022-10-13,234,46,1,Renewal,EMEA,20
+344,Massive Partners Support Contract,84417.47,qualifiedtobuy,2022-03-25,100,90,True,Cross-sell,EMEA,20
+345,Umbrella Partners Licensing Deal,108935.79,closedlost,03/2022,61,235,0,Upsell,APAC,25
+346,Summit Labs Platform Deal,85373.91,decisionmakerboughtin,2022-11-04,125,267,False,New Business,AMER,15
+347,Prism Global Upgrade,138595.75,closedwon,2022-10-13,76,223,1,Cross-sell,LATAM,0
+348,Meridian Ventures Support Contract,60401,closedwon,2022-02-09,75,393,1,Renewal,APAC,25
+349,Hooli Dynamics Support Contract,146967.93,appointmentscheduled,13/07/2023,85,245,False,Upsell,EMEA,0
+350,Anchor Networks - Q1 Expansion,48887.52,contractsent,2021-05-21,172,14,False,Upsell,AMER,20
+351,Catalyst Collective Consulting,90226.52,closedlost,2022-05-01,74,26,0,New Business,LATAM,5
+352,Gringotts Dynamics Platform Deal,"$58,286.50",decisionmakerboughtin,2023-08-24,211,344,1,New Business,APAC,0
+353,Anchor Co Renewal,31190.17,qualifiedtobuy,2021-03-11,274,135,0,Cross-sell,EMEA,15
+354,Anchor Solutions Platform Deal,77480.87,appointmentscheduled,2022-02-08,6,105,True,Upsell,LATAM,15
+355,Wonka Co Support Contract,"$49,130",contractsent,05-19-2022,193,63,Yes,Renewal,EMEA,0
+356,Fusion Enterprises Distribution Agreement,22124.21,closedlost,2022-02-13,28,122,0,Cross-sell,AMER,5%
+357,Aperture Inc Platform Deal,86305.45,closedlost,2021-05-17,48,252,0,Cross-sell,LATAM,5
+358,Apex Industries Support Contract,51432.22,closedwon,2021-09-22,119,277,1,Cross-sell,EMEA,15
+359,Quantum Holdings Renewal,"$129,155.06",contractsent,2022-04-13,220,207,False,Cross-sell,AMER,0
+360,Cobalt Systems Consulting,3209.99,closedlost,2021-02-13,115,323,0,Cross-sell,EMEA,25
+361,Gringotts Partners Platform Deal,89531,closedwon,2021-06-19,38,268,1,Renewal,AMER,15
+362,Anchor Labs Platform Deal,108159.15,appointmentscheduled,12/2023,280,9,True,Renewal,APAC,25%
+363,Wonka Partners Renewal,27677.3,decisionmakerboughtin,2021-12-21,173,377,False,Cross-sell,LATAM,15
+364,Cyberdyne Studio Distribution Agreement,80297.4,contractsent,2023-11-22,96,14,True,Upsell,LATAM,20
+365,Beacon Labs Support Contract,60390,closedlost,2021-11-18,67,164,0,Upsell,APAC,0
+366,Soylent Corp Licensing Deal,101278,closedlost,2023-06-22,185,387,0,Upsell,APAC,10
+367,Apex Global Distribution Agreement,80372.76,qualifiedtobuy,2021-11-08,269,202,Yes,Renewal,LATAM,5
+368,Meridian Co Consulting,73012.12,qualifiedtobuy,2021-09-25,294,53,False,Renewal,LATAM,5
+369,Anchor Industries Support Contract,106881.68,closedwon,11/2023,114,356,1,New Business,LATAM,20
+370,Hooli Holdings - Q3 Expansion,101638.58,contractsent,04/2022,287,167,False,New Business,EMEA,15
+371,Pied Piper Industries Consulting,68597.83,decisionmakerboughtin,2022-04-13,102,268,True,Renewal,AMER,0%
+372,Nimbus Enterprises Distribution Agreement,127144.16,qualifiedtobuy,2022-01-01,110,215,False,New Business,APAC,0%
+373,Sirius Works Renewal,2002.25,closedwon,2021-10-24,234,197,1,Upsell,APAC,15%
+374,Summit Enterprises Licensing Deal,21594.64,appointmentscheduled,2022-09-15,170,286,False,Renewal,APAC,20
+375,Wayne Dynamics Consulting,"$50,511.92",qualifiedtobuy,2023-02-03,217,187,False,New Business,EMEA,5
+376,Aperture Collective Support Contract,6034.61,qualifiedtobuy,2022/06/03,118,301,1,Cross-sell,AMER,25%
+377,Nimbus Networks Licensing Deal,134931.45,closedwon,12-16-2023,267,269,1,Renewal,LATAM,5
+378,Gringotts Enterprises Platform Deal,"$121,351.64",decisionmakerboughtin,2023-04-26,264,379,1,Upsell,EMEA,5%
+379,Vertex LLC Upgrade,31389.6,appointmentscheduled,2021-09-08,4,321,True,Renewal,EMEA,20%
+380,Anchor Collective Renewal,84744.15,qualifiedtobuy,2022-08-11,266,362,False,Upsell,LATAM,5
+381,Atlas Collective Renewal,144092.24,contractsent,02-13-2023,167,73,True,Upsell,EMEA,15
+382,Pied Piper Technologies Platform Deal,143345.95,decisionmakerboughtin,2023/10/20,112,290,0,Renewal,EMEA,25
+383,Catalyst Collective Platform Deal,81484.37,closedlost,2022-12-08,74,122,0,Renewal,APAC,15%
+384,Sirius Ventures Distribution Agreement,87063.73,qualifiedtobuy,2021-01-19,238,378,False,Cross-sell,EMEA,5
+385,Nimbus Systems - Q2 Expansion,135259.82,closedwon,2021/08/03,299,225,1,Cross-sell,EMEA,5
+386,Cyberdyne Ventures Support Contract,"$9,089.30",qualifiedtobuy,2021-06-13,168,71,1,New Business,APAC,20
+387,Pied Piper Enterprises Distribution Agreement,100434.84,closedlost,2021-12-24,239,266,0,Upsell,LATAM,0
+388,Umbrella LLC - Q3 Expansion,48789.39,decisionmakerboughtin,2023-02-27,21,104,No,Renewal,AMER,5
+389,Aperture Inc Platform Deal,30627.09,closedlost,2023-12-12,48,12,0,Upsell,EMEA,20
+390,Atlas LLC Distribution Agreement,"$110,031.56",qualifiedtobuy,04/10/2021,296,213,False,New Business,LATAM,15
+391,Fusion Enterprises Renewal,108726.9,appointmentscheduled,02/03/2021,28,59,True,Cross-sell,AMER,5
+392,Nimbus Enterprises Upgrade,16440.81,contractsent,2023/01/22,110,19,True,Renewal,AMER,0%
+393,Catalyst Holdings Licensing Deal,126158.72,decisionmakerboughtin,2021-03-20,286,350,False,Renewal,APAC,25
+394,Hooli Corp Consulting,"$68,606.42",closedlost,27/08/2023,1,110,0,Cross-sell,APAC,20
+395,Gringotts Co Platform Deal,63946.51,appointmentscheduled,2023/03/01,158,391,True,Upsell,LATAM,5
+396,Nova Systems - Q4 Expansion,"$62,438",closedlost,2023-02-14,86,307,0,New Business,APAC,10
+397,Vertex LLC Upgrade,115493.46,qualifiedtobuy,2023-06-13,4,114,1,Cross-sell,APAC,20%
+398,Wayne Labs Upgrade,65693,qualifiedtobuy,2022-02-05,179,191,False,New Business,EMEA,20%
+399,Nova Inc Support Contract,78010.94,contractsent,2022-03-14,212,284,True,Renewal,LATAM,0%
+400,Pied Piper LLC - Q4 Expansion,50488.75,appointmentscheduled,2022/08/04,56,176,1,Renewal,APAC,20

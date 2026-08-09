@@ -1,0 +1,401 @@
+contact_id,first_name,last_name,email,phone,company_id,lifecycle_stage,is_subscribed,lead_source,preferred_contact_method,is_decision_maker
+1,Hope,Beer,hope.beer@duffworks.com,5550422,227,subscriber,0,Cold Outreach,SMS,True
+2,Rhodey,Rhodes,rhodey.rhodes@anchorcorp.com,555.0611,221,opportunity,False,Trade Show,No Preference,True
+3,Bucky,Barnes,bucky.barnes@stellarventures.com,555-0245,41,evangelist,False,Cold Outreach,SMS,True
+4,Norman,Hendricks,norman.hendricks@siriusworks.com,555-0278,234,salesqualifiedlead,1,Webinar,Email,True
+5,Norman,Stark,norman.stark@starkindustries.com,555.0744,65,lead,0,Cold Outreach,No Preference,False
+6,Sam,Potts,sam.potts@umbrellaglobal.com,555-0863,17,lead,No,Referral,No Preference,Yes
+7,Bucky,Doe,bucky.doe@piedpipercorp.com,555-0998,128,customer,True,Organic Search,Email,True
+8,Pepper,Barnes,pepper.barnes@nimbussolutions.com,555-0162,160,subscriber,True,Cold Outreach,No Preference,True
+9,Sam,Connor,sam.connor@piedpipertechnologies.com,555-0241,112,marketingqualifiedlead,Yes,Trade Show,Email,True
+10,John,Brown,john.brown@meridiancorp.com,555-0158,244,subscriber,No,Referral,SMS,True
+11,Sara,Romanoff,sara.romanoff@lanternnetworks.com,555-0128,275,marketingqualifiedlead,False,Organic Search,Phone,No
+12,Natasha,Hendricks,natasha.hendricks@umbrellallc.com,555-0448,21,opportunity,True,Trade Show,Phone,False
+13,Happy,Grey,happy.grey@gringottsllc.com,5550543,284,evangelist,False,Organic Search,Email,False
+14,Norman,Smith,norman.smith@nimbustechnologies.com,555-0244,187,subscriber,False,Webinar,No Preference,True
+15,Kate,Carter,kate.carter@horizonnetworks.com,555-0535,165,subscriber,True,Webinar,Email,No
+16,Miles,Stark,miles.stark@cyberdynedynamics.com,555-0538,199,opportunity,False,Webinar,Email,0
+17,Rhodey,Wayne,rhodey.wayne@gringottsnetworks.com,555-0761,32,salesqualifiedlead,True,Trade Show,SMS,True
+18,Steve,Hardy,steve.hardy@anchorcollective.com,+1-555-0742,266,lead,0,Trade Show,Phone,False
+19,Tony,Romanoff,tony.romanoff@initechdynamics.com,555-0170,219,opportunity,False,Partner,Phone,False
+20,Natasha,Maximoff,natasha.maximoff@atlascollective.com,555-0422,167,salesqualifiedlead,False,Trade Show,Phone,True
+21,Bucky,Bishop,bucky.bishop@novapartners.com,555-0463,131,salesqualifiedlead,1,Cold Outreach,Email,False
+22,John,Rogers,john.rogers@nimbusenterprises.com,555-0022,110,customer,True,Referral,Email,True
+23,Richard,Shepherd,richard.shepherd@nimbussystems.com,555-0262,299,subscriber,True,Partner,Email,False
+24,Norman,VanDyne,norman.vandyne@atlasllc.com,555-0097,296,marketingqualifiedlead,No,Referral,Email,False
+25,Natasha,Leeds,natasha.leeds@meridiancollective.com,555-0232,62,evangelist,True,Partner,No Preference,1
+26,Wanda,Khan,wanda.khan@cyberdyneventures.com,+1-555-0226,168,salesqualifiedlead,True,Webinar,No Preference,False
+27,Nina,Hendricks,nina.hendricks@meridiancorp.com,555-0050,244,marketingqualifiedlead,No,Partner,Phone,False
+28,Scott,Dyson,scott.dyson@oscorpcollective.com,555-0630,293,opportunity,1,Cold Outreach,No Preference,True
+29,Gavin,Parker,gavin.parker@waynelabs.com,555-0352,179,subscriber,True,Cold Outreach,No Preference,False
+30,Mike,Beer,mike.beer@soylentventures.com,555-0745,192,subscriber,True,Trade Show,Phone,False
+31,John,Barton,john.barton@zenithsolutions.com,(555) 0482,57,customer,True,Trade Show,SMS,True
+32,Jane,Barnes,JANE.BARNES@DUFFNETWORKS.COM,(555) 0174,270,evangelist,False,Referral,No Preference,True
+33,Tom,Barnes,tom.barnes@soylentcorp.com,+1-555-0019,185,lead,True,Cold Outreach,No Preference,True
+34,Norman,Dyson,norman.dyson@cobaltco.com,(555) 0729,235,opportunity,False,Organic Search,Phone,Yes
+35,Natasha,Rogers,natasha.rogers@apexpartners.com,555-0063,257,salesqualifiedlead,True,Trade Show,SMS,Yes
+36,Carol,Hendricks,carol.hendricks@duffllc.com,555-0694,196,customer,False,Webinar,Phone,False
+37,Kamala,Barton,kamala.barton@cobaltcorp.com,555-0141,68,customer,True,Cold Outreach,Phone,True
+38,Hank,Weasley,hank.weasley@catalystholdings.com,5550736,286,evangelist,True,Cold Outreach,No Preference,False
+39,Ned,Grey,ned.grey@titanllc.com,5550189,97,opportunity,True,Trade Show,Phone,1
+40,Natasha,Wayne,natasha.wayne@umbrellasystems.com,555-0866,245,customer,True,Organic Search,No Preference,True
+41,Miles,Beer,miles.beer@beaconcorp.com,555-0973,8,customer,True,Webinar,Email,No
+42,Kate,VanDyne,kate.vandyne@cobaltco.com,555-0437,235,subscriber,False,Partner,SMS,True
+43,Wong,Stark,wong.stark@summitindustries.com,555-0251,22,salesqualifiedlead,True,Trade Show,No Preference,True
+44,Miles,Carter,miles.carter@apexgroup.com,555-0292,156,salesqualifiedlead,True,Partner,Phone,False
+45,Bruce,Lang,bruce.lang@beaconventures.com,555-0712,300,salesqualifiedlead,False,Referral,Phone,True
+46,Happy,Wayne,happy.wayne@catalystworks.com,+1-555-0126,84,customer,False,Partner,Phone,False
+47,Mike,Weasley,mike.weasley@cobaltlabs.com,(555) 0883,290,lead,True,Organic Search,SMS,False
+48,Peggy,Osborn,peggy.osborn@cobaltcorp.com,555-0003,68,marketingqualifiedlead,No,Organic Search,Email,False
+49,Alicia,Johnson,alicia.johnson@meridiancorp.com,555.0452,244,lead,False,Trade Show,Phone,0
+50,Sara,Romanoff,sara.romanoff@umbrellaglobal.com,555-0858,17,marketingqualifiedlead,True,Referral,No Preference,True
+51,Peggy,Bishop,peggy.bishop@siriusworks.com,555-0368,234,subscriber,False,Cold Outreach,No Preference,False
+52,Scott,Hardy,scott.hardy@meridiangroup.com,+1-555-0880,69,opportunity,0,Trade Show,Email,1
+53,Pepper,Carter,pepper.carter@starksystems.com,555-0588,163,marketingqualifiedlead,False,Trade Show,No Preference,True
+54,Kate,Beer, kate.beer@massivepartners.com ,555-0024,100,evangelist,0,Trade Show,No Preference,False
+55,Natasha,Bishop, natasha.bishop@emberpartners.com ,555-0206,109,marketingqualifiedlead,False,Cold Outreach,SMS,True
+56,Clint,Barton,clint.barton@quantumlabs.com,555-0029,292,lead,False,Partner,No Preference,True
+57,Richard,Rhodes,richard.rhodes@vertexgroup.com,555-0549,236,salesqualifiedlead,False,Partner,Email,False
+58,Hank,Maximoff,hank.maximoff@wonkaindustries.com,555-0701,10,evangelist,True,Cold Outreach,Email,False
+59,Hope,Weasley,hope.weasley@orbitnetworks.com,555-0119,200,evangelist,False,Partner,Email,True
+60,Rhodey,Keys,rhodey.keys@meridiansystems.com,5550309,155,evangelist,0,Referral,No Preference,False
+61,Vision,Sharp,vision.sharp@acmeglobal.com,555-0536,248,marketingqualifiedlead,1,Trade Show,Phone,1
+62,Happy,Barnes,happy.barnes@compassinc.com,555-0318,268,customer,True,Cold Outreach,No Preference,True
+63,Wong,Rogers,wong.rogers@nimbussolutions.com,555-0214,160,lead,False,Organic Search,Email,True
+64,Meredith,Belson,meredith.belson@hooliholdings.com,555-0211,287,opportunity,True,Partner,SMS,True
+65,Tom,Rogers,tom.rogers@gringottsstudio.com,+1-555-0051,174,customer,No,Referral,Email,True
+66,Kamala,Hogan,kamala.hogan@nimbussolutions.com,555-0202,160,customer,True,Organic Search,Phone,No
+67,Tony,Potts,tony.potts@piedpiperenterprises.com,5550970,239,marketingqualifiedlead,False,Cold Outreach,No Preference,True
+68,Pepper,Belson,pepper.belson@acmecorp.com,555-0289,237,opportunity,True,Organic Search,Email,True
+69,Steve,Khan,steve.khan@novainc.com,555-0249,212,salesqualifiedlead,False,Webinar,No Preference,False
+70,Hank,Barton,hank.barton@horizonventures.com,+1-555-0685,121,subscriber,False,Cold Outreach,Email,True
+71,Steve,Danvers,steve.danvers@piedpiperllc.com,555-0610,56,salesqualifiedlead,True,Referral,Phone,True
+72,Nina,Sharp,nina.sharp@oscorpgroup.com,555-0591,150,lead,False,Cold Outreach,SMS,False
+73,Natasha,Wayne,natasha.wayne@piedpiperdynamics.com,555-0130,262,subscriber,True,Referral,SMS,Yes
+74,Jane,Keys,jane.keys@cobaltworks.com,555-0728,202,salesqualifiedlead,True,Partner,Phone,True
+75,Scott,Barnes,scott.barnes@soylentcorp.com,(555) 0157,185,lead,1,Webinar,No Preference,True
+76,Bruce,Hendricks,bruce.hendricks@vertexstudio.com,555-0915,213,opportunity,True,Organic Search,No Preference,False
+77,Bucky,Romanoff,bucky.romanoff@starkpartners.com,555-0591,218,customer,Yes,Organic Search,SMS,1
+78,Hank,Rhodes,hank.rhodes@fusionco.com,555-0984,58,lead,False,Organic Search,Email,True
+79,Alicia,Rhodes,alicia.rhodes@titanlabs.com,555-0552,40,marketingqualifiedlead,False,Trade Show,Email,False
+80,Hank,Barton,hank.barton@duffpartners.com,555-0036,151,opportunity,False,Referral,No Preference,True
+81,Peggy,Smith,peggy.smith@nimbuscollective.com,555-0078,43,marketingqualifiedlead,False,Cold Outreach,SMS,1
+82,Kamala,Osborn,kamala.osborn@piedpiperworks.com,555-0378,78,marketingqualifiedlead,True,Organic Search,Phone,True
+83,Clint,Wayne,clint.wayne@starkcollective.com,555-0770,79,evangelist,False,Partner,Phone,Yes
+84,Sara,Shepherd,SARA.SHEPHERD@EMBERLLC.COM,555-0475,60,marketingqualifiedlead,True,Organic Search,No Preference,True
+85,Wong,Leeds,wong.leeds@fusionsolutions.com,555-0699,307,subscriber,False,Organic Search,SMS,False
+86,Tony,Shepherd,tony.shepherd@meridiantechnologies.com,555-0691,201,customer,True,Trade Show,SMS,True
+87,Wanda,Bishop,wanda.bishop@soylentcorp.com,+1-555-0537,304,marketingqualifiedlead,Yes,Cold Outreach,Phone,1
+88,Sara,Johnson,sara.johnson@titanholdings.com,(555) 0122,63,salesqualifiedlead,True,Referral,Phone,False
+89,Tom,Potts,tom.potts@vectorco.com,555-0708,142,evangelist,False,Webinar,Email,True
+90,Bucky,Barnes,bucky.barnes@umbrellaworks.com,+1-555-0832,31,subscriber,True,Trade Show,No Preference,No
+91,Tony,Sharp,tony.sharp@anchorcorp.com,+1-555-0658,221,customer,True,Referral,Email,False
+92,Ned,Smith,ned.smith@vectorgroup.com,555-0000,77,customer,True,Partner,SMS,True
+93,Vision,VanDyne,vision.vandyne@gringottstechnologies.com,555-0799,207,subscriber,True,Organic Search,No Preference,Yes
+94,Clint,Rogers,clint.rogers@waynesystems.com,555-0873,47,subscriber,False,Partner,Phone,1
+95,Bucky,Dyson,bucky.dyson@orbitnetworks.com,555-0645,200,salesqualifiedlead,No,Partner,Phone,0
+96,Jane,Keys,jane.keys@piedpiperco.com,555-0658,33,opportunity,False,Referral,Email,False
+97,Mike,Danvers,mike.danvers@compassinc.com,555-0694,268,opportunity,0,Referral,Email,False
+98,Jane,Rhodes,jane.rhodes@starkdynamics.com,(555) 0664,24,customer,Yes,Referral,No Preference,True
+99,Tony,Belson,tony.belson@cyberdyneworks.com,555-0207,113,evangelist,False,Cold Outreach,Email,True
+100,Wanda,Johnson,wanda.johnson@waynestudio.com,+1-555-0123,89,lead,True,Organic Search,Phone,True
+101,Richard,Stark,richard.stark@wonkaco.com,555-0016,193,subscriber,0,Referral,SMS,False
+102,Richard,Johnson,richard.johnson@wonkainc.com,(555) 0421,139,opportunity,True,Partner,No Preference,True
+103,Steve,Romanoff,steve.romanoff@catalystholdings.com,555-0120,286,subscriber,True,Organic Search,Phone,True
+104,Gavin,Sharp,gavin.sharp@meridianenterprises.com,555-0163,243,subscriber,Yes,Cold Outreach,Phone,False
+105,Kate,Potts,kate.potts@apextechnologies.com,555.0180,27,salesqualifiedlead,True,Webinar,No Preference,False
+106,Peter,Dyson,peter.dyson@atlascollective.com,555-0112,167,subscriber,No,Webinar,No Preference,True
+107,Pepper,VanDyne,pepper.vandyne@stellartechnologies.com,555-0950,224,lead,True,Organic Search,Phone,False
+108,Miles,Barton,MILES.BARTON@QUANTUMLABS.COM,+1-555-0139,292,salesqualifiedlead,False,Webinar,SMS,True
+109,Hank,Bishop,hank.bishop@oscorppartners.com,555-0534,45,lead,False,Cold Outreach,Email,True
+110,Alicia,Maximoff,alicia.maximoff@anchorindustries.com,555-0605,114,opportunity,False,Referral,Email,True
+111,May,Pym,may.pym@duffcollective.com,555.0246,51,customer,True,Webinar,SMS,True
+112,Jane,Rhodes,jane.rhodes@duffdynamics.com,555-0878,83,opportunity,No,Organic Search,Phone,False
+113,Norman,Wilson,norman.wilson@hoolicorp.com,555-0072,1,customer,True,Cold Outreach,No Preference,True
+114,Bruce,Barton,bruce.barton@catalystnetworks.com,555-0931,29,subscriber,Yes,Organic Search,Email,True
+115,Scott,Hardy,scott.hardy@waynetechnologies.com,555.0342,105,customer,True,Partner,Phone,False
+116,Vision,Leeds,vision.leeds@piedpiperco.com,555-0463,33,opportunity,False,Partner,SMS,False
+117,Tom,Dyson,tom.dyson@cobaltco.com,555-0400,235,marketingqualifiedlead,True,Referral,Phone,True
+118,Rhodey,Sharp,rhodey.sharp@nimbusnetworks.com,(555) 0023,267,salesqualifiedlead,False,Partner,Email,True
+119,Jane,Beer,jane.beer@nimbusnetworks.com,555-0421,267,customer,False,Organic Search,No Preference,True
+120,Steve,Weasley,steve.weasley@wonkaenterprises.com,555.0994,117,lead,False,Webinar,Phone,False
+121,Norman,Osborn,norman.osborn@starkcollective.com,5550119,79,opportunity,Yes,Cold Outreach,Phone,1
+122,Wanda,Romanoff,wanda.romanoff@massivesolutions.com,555-0166,230,subscriber,False,Organic Search,Phone,False
+123,Nina,Doe,nina.doe@anchorlabs.com,555-0339,280,marketingqualifiedlead,False,Trade Show,Phone,False
+124,Clint,Belson,clint.belson@umbrellallc.com,555.0564,21,salesqualifiedlead,True,Organic Search,SMS,1
+125,Kamala,Dyson,kamala.dyson@anchorindustries.com,555.0785,114,subscriber,False,Partner,Email,False
+126,Miles,VanDyne,miles.vandyne@piedpiperdynamics.com,555-0930,262,salesqualifiedlead,No,Cold Outreach,No Preference,False
+127,Natasha,Romanoff,natasha.romanoff@cobaltinc.com,+1-555-0089,229,customer,False,Cold Outreach,Phone,False
+128,Peter,Hendricks,peter.hendricks@oscorppartners.com,555-0310,45,evangelist,False,Referral,No Preference,No
+129,Meredith,Parker,meredith.parker@acmecorp.com,555-0773,237,lead,No,Cold Outreach,No Preference,Yes
+130,Janet,Rogers,janet.rogers@siriusventures.com,5550810,238,marketingqualifiedlead,False,Referral,SMS,False
+131,Alicia,Smith,alicia.smith@vectorco.com,5550993,142,opportunity,False,Cold Outreach,No Preference,True
+132,Sam,Lang,sam.lang@nimbusglobal.com,555-0166,9,lead,True,Cold Outreach,Phone,Yes
+133,Peter,Romanoff,peter.romanoff@oscorpgroup.com,(555) 0958,150,evangelist,True,Trade Show,Phone,False
+134,Steve,Grey,steve.grey@wayneworks.com,555-0593,186,lead,Yes,Cold Outreach,No Preference,True
+135,Tony,Johnson,tony.johnson@anchorindustries.com,555-0814,114,opportunity,True,Organic Search,No Preference,True
+136,Richard,Smith,richard.smith@nimbussolutions.com,555-0142,160,opportunity,False,Webinar,SMS,1
+137,Duffman,Hendricks,duffman.hendricks@globexco.com,(555) 0314,73,subscriber,True,Referral,Email,False
+138,Mike,Dyson,mike.dyson@acmecollective.com,5550480,263,subscriber,1,Referral,Email,True
+139,Janet,Dyson, janet.dyson@soylentco.com ,555-0149,180,marketingqualifiedlead,False,Cold Outreach,Phone,True
+140,Vision,Hardy,vision.hardy@gringottssolutions.com,(555) 0541,297,marketingqualifiedlead,1,Partner,Email,False
+141,Sam,Osborn,sam.osborn@duffgroup.com,555-0363,55,salesqualifiedlead,0,Organic Search,Email,False
+142,Gavin,Potts,gavin.potts@starknetworks.com,555-0369,70,opportunity,True,Cold Outreach,No Preference,Yes
+143,Happy,Rogers,happy.rogers@dufflabs.com,+1-555-0417,228,lead,False,Partner,SMS,No
+144,Tony,Danvers,tony.danvers@quantumgroup.com,555-0404,44,opportunity,True,Referral,SMS,False
+145,Miles,Danvers,miles.danvers@starkpartners.com,555-0285,218,evangelist,False,Partner,No Preference,False
+146,Rhodey,Lang,rhodey.lang@novanetworks.com,555-0256,233,lead,True,Referral,Email,True
+147,Rhodey,Smith,rhodey.smith@duffllc.com,555.0334,196,evangelist,No,Organic Search,Phone,False
+148,Rhodey,Lang,rhodey.lang@orbitglobal.com,555-0553,176,evangelist,No,Referral,No Preference,False
+149,Ned,Potts,ned.potts@novallc.com,555-0881,91,customer,No,Webinar,SMS,False
+150,Gavin,VanDyne,gavin.vandyne@summitglobal.com,555-0487,277,lead,False,Cold Outreach,No Preference,False
+151,Kate,Romanoff,kate.romanoff@quantuminc.com,555-0028,146,lead,False,Partner,Email,False
+152,Bucky,Stark,bucky.stark@beaconstudio.com,555-0057,183,lead,Yes,Trade Show,Email,True
+153,Steve,Belson,steve.belson@apertureworks.com,555-0038,11,evangelist,False,Cold Outreach,Email,True
+154,Wanda,Barnes,wanda.barnes@horizonenterprises.com,555-0827,166,customer,False,Organic Search,SMS,Yes
+155,Sam,Leeds,sam.leeds@nimbusstudio.com,5550548,39,subscriber,False,Webinar,Email,True
+156,Janet,Barton,janet.barton@initechglobal.com,555-0486,291,marketingqualifiedlead,False,Trade Show,SMS,False
+157,Miles,Parker,miles.parker@gringottsenterprises.com,555-0781,264,subscriber,True,Trade Show,No Preference,No
+158,Meredith,Khan,meredith.khan@duffsystems.com,555-0744,223,opportunity,No,Webinar,Phone,Yes
+159,May,Parker,may.parker@piedpiperco.com,555-0866,33,evangelist,True,Cold Outreach,Phone,True
+160,Nina,Dyson,nina.dyson@lanternstudio.com,555-0573,159,salesqualifiedlead,True,Webinar,Phone,True
+161,Derek,Grey,derek.grey@novallc.com,555-0043,91,salesqualifiedlead,True,Referral,SMS,True
+162,Peter,Wilson,peter.wilson@waynesystems.com,555-0859,47,lead,1,Trade Show,SMS,True
+163,Alicia,Belson,alicia.belson@anchorinc.com,555-0598,161,evangelist,True,Organic Search,Phone,0
+164,Cave,Grey,cave.grey@novapartners.com,555-0057,131,marketingqualifiedlead,True,Cold Outreach,No Preference,True
+165,Meredith,Sharp,meredith.sharp@stellarglobal.com,555-0021,189,opportunity,1,Partner,Phone,False
+166,Steve,Wilson,steve.wilson@titanholdings.com,555-0242,63,salesqualifiedlead,No,Cold Outreach,SMS,0
+167,Steve,Johnson,steve.johnson@duffdynamics.com,555-0646,83,evangelist,False,Referral,SMS,False
+168,Pepper,Parker,pepper.parker@vectornetworks.com,555-0897,171,subscriber,False,Trade Show,Email,False
+169,Happy,Smith,happy.smith@atlasstudio.com,555-0810,95,subscriber,False,Cold Outreach,Email,0
+170,Wong,Hendricks,wong.hendricks@gringottsdynamics.com,555-0327,211,evangelist,False,Webinar,SMS,True
+171,Bruce,Parker,bruce.parker@cobaltworks.com,555-0967,202,opportunity,1,Trade Show,Phone,False
+172,Miles,Shepherd,MILES.SHEPHERD@MASSIVEHOLDINGS.COM,555-0632,87,marketingqualifiedlead,Yes,Webinar,Email,No
+173,Happy,VanDyne,happy.vandyne@waynetechnologies.com,555-0882,105,marketingqualifiedlead,False,Organic Search,Phone,True
+174,Kamala,Johnson,kamala.johnson@orbitsystems.com,555-0193,145,salesqualifiedlead,True,Cold Outreach,SMS,No
+175,Alicia,Wilson,alicia.wilson@cobaltco.com,5550480,235,customer,True,Partner,No Preference,False
+176,Tom,Stark,tom.stark@apextechnologies.com,555-0240,27,marketingqualifiedlead,True,Referral,SMS,False
+177,Steve,Danvers,steve.danvers@cobaltcorp.com,(555) 0572,68,marketingqualifiedlead,No,Cold Outreach,No Preference,Yes
+178,Wong,Leeds,wong.leeds@emberllc.com,555-0130,60,evangelist,False,Organic Search,SMS,False
+179,Kate,Shepherd,kate.shepherd@stellartechnologies.com,555-0323,224,salesqualifiedlead,True,Trade Show,No Preference,0
+180,Sara,Beer,sara.beer@piedpipernetworks.com,555-0722,241,subscriber,False,Referral,No Preference,False
+181,Happy,VanDyne,happy.vandyne@prismglobal.com,5550095,76,lead,False,Trade Show,Phone,True
+182,Wong,Osborn,wong.osborn@titanlabs.com,555-0510,40,marketingqualifiedlead,1,Organic Search,SMS,True
+183,Wanda,Sharp,wanda.sharp@vertexgroup.com,555-0675,236,customer,True,Cold Outreach,Email,False
+184,Wanda,Hendricks,wanda.hendricks@stellarlabs.com,555-0289,25,subscriber,False,Referral,No Preference,True
+185,Carol,Wayne,carol.wayne@lanternventures.com,555-0798,107,customer,True,Referral,SMS,False
+186,Steve,Hendricks,steve.hendricks@atlasgroup.com,+1-555-0524,50,salesqualifiedlead,False,Referral,No Preference,True
+187,May,Leeds,may.leeds@acmecollective.com,555-0474,263,customer,True,Organic Search,Email,False
+188,Bruce,Rhodes,bruce.rhodes@horizonglobal.com,555-0307,66,opportunity,True,Trade Show,Email,True
+189,Vision,Leeds,vision.leeds@siriusventures.com,555-0582,238,marketingqualifiedlead,True,Trade Show,Email,No
+190,Norman,Osborn,norman.osborn@starkdynamics.com,555-0897,24,marketingqualifiedlead,False,Partner,No Preference,False
+191,Clint,Osborn,clint.osborn@stellarventures.com,555.0618,41,salesqualifiedlead,True,Organic Search,Email,No
+192,Happy,Danvers,happy.danvers@beaconsolutions.com,555-0832,250,marketingqualifiedlead,False,Cold Outreach,Email,1
+193,Miles,Belson,miles.belson@titanllc.com,555-0214,97,lead,False,Partner,Phone,No
+194,Nina,Rhodes,nina.rhodes@emberllc.com,555-0156,60,salesqualifiedlead,False,Referral,No Preference,True
+195,Peggy,Danvers,peggy.danvers@summitsystems.com,555-0867,5,salesqualifiedlead,False,Referral,No Preference,False
+196,Duffman,Connor,duffman.connor@waynedynamics.com,+1-555-0566,217,salesqualifiedlead,Yes,Organic Search,No Preference,Yes
+197,Miles,Rhodes,miles.rhodes@apexindustries.com,555-0601,119,marketingqualifiedlead,False,Webinar,SMS,False
+198,Peter,Wilson,peter.wilson@duffdynamics.com,555-0289,83,subscriber,True,Webinar,Phone,No
+199,Tony,Parker,tony.parker@beacondynamics.com,555-0214,253,subscriber,False,Cold Outreach,Phone,1
+200,Tom,Barton,tom.barton@wonkaenterprises.com,555-0229,117,marketingqualifiedlead,True,Trade Show,SMS,True
+201,Sara,Hogan,sara.hogan@zenithsolutions.com,555-0800,57,evangelist,True,Trade Show,Email,True
+202,Gavin,Johnson,gavin.johnson@fusiontechnologies.com,555-0725,81,opportunity,True,Webinar,SMS,True
+203,Gavin,Dyson,gavin.dyson@vertexstudio.com,+1-555-0006,213,marketingqualifiedlead,True,Referral,SMS,False
+204,Sam,Keys,sam.keys@zenithlabs.com,+1-555-0233,272,salesqualifiedlead,False,Trade Show,SMS,False
+205,Nina,Doe,nina.doe@meridiansolutions.com,555-0086,265,salesqualifiedlead,True,Organic Search,Email,True
+206,Nina,Connor,nina.connor@nimbusnetworks.com,555-0429,267,customer,False,Partner,SMS,True
+207,Meredith,Pym,meredith.pym@prismglobal.com,555-0456,76,opportunity,False,Partner,SMS,False
+208,Miles,Rogers,miles.rogers@prismstudio.com,555-0742,276,lead,False,Webinar,Email,False
+209,Wong,Barton, wong.barton@titannetworks.com ,555-0911,82,opportunity,False,Partner,No Preference,True
+210,Sara,Wilson,sara.wilson@globexventures.com,555-0048,260,subscriber,True,Organic Search,SMS,True
+211,Natasha,Rogers,natasha.rogers@meridianco.com,555-0731,294,customer,Yes,Trade Show,Phone,False
+212,Happy,Stark,happy.stark@starkpartners.com,+1-555-0083,218,lead,False,Referral,SMS,False
+213,Janet,Bishop,janet.bishop@compasssystems.com,555-0598,203,salesqualifiedlead,False,Partner,No Preference,True
+214,Vision,Hendricks,vision.hendricks@cobaltco.com,555-0721,235,opportunity,0,Organic Search,No Preference,0
+215,Scott,Wilson,scott.wilson@umbrellapartners.com,5550418,61,opportunity,True,Referral,SMS,False
+216,Steve,Carter,steve.carter@catalystcollective.com,555-0603,74,marketingqualifiedlead,True,Webinar,No Preference,Yes
+217,Tom,Brown,tom.brown@meridianco.com,555-0463,294,evangelist,True,Webinar,No Preference,False
+218,Nina,Maximoff,nina.maximoff@fusiongroup.com,555-0921,210,opportunity,No,Partner,SMS,True
+219,Jane,Rogers,jane.rogers@stellarcorp.com,555.0087,64,opportunity,False,Trade Show,Email,0
+220,Jane,Grey,jane.grey@beaconholdings.com,555-0859,126,salesqualifiedlead,Yes,Organic Search,Email,True
+221,Clint,Leeds,clint.leeds@wonkanetworks.com,555-0324,13,subscriber,1,Trade Show,Phone,True
+222,Derek,Wayne,derek.wayne@atlascorp.com,555-0060,209,marketingqualifiedlead,1,Cold Outreach,No Preference,0
+223,Peter,Maximoff,PETER.MAXIMOFF@MERIDIANCOLLECTIVE.COM,555-0245,62,opportunity,No,Referral,SMS,No
+224,Scott,Parker,scott.parker@summitcorp.com,555-0239,15,subscriber,True,Webinar,Phone,False
+225,Ned,Wayne,ned.wayne@apexpartners.com,(555) 0991,257,evangelist,No,Trade Show,No Preference,No
+226,Kate,Carter, kate.carter@novasystems.com ,555-0955,86,marketingqualifiedlead,False,Cold Outreach,Phone,False
+227,Mike,Weasley,mike.weasley@wonkasystems.com,555-0091,289,subscriber,False,Organic Search,Phone,False
+228,Clint,Shepherd,clint.shepherd@nimbusco.com,555-0678,232,marketingqualifiedlead,Yes,Referral,Phone,True
+229,Kamala,Rhodes,kamala.rhodes@oscorptechnologies.com,555-0713,304,evangelist,True,Partner,Email,False
+230,Gavin,Romanoff,gavin.romanoff@wonkaco.com,555-0366,193,evangelist,True,Referral,No Preference,True
+231,Ned,Doe,ned.doe@apertureworks.com,555-0696,11,marketingqualifiedlead,Yes,Partner,Phone,No
+232,Sam,Brown, sam.brown@horizonlabs.com ,555-0840,108,subscriber,False,Webinar,Phone,True
+233,Tom,Hendricks,tom.hendricks@horizonglobal.com,555-0583,66,opportunity,False,Webinar,Email,False
+234,Scott,Potts,scott.potts@umbrellasolutions.com,+1-555-0416,307,salesqualifiedlead,True,Partner,Phone,No
+235,Hope,Hogan,hope.hogan@meridiantechnologies.com,555-0083,201,evangelist,0,Partner,No Preference,True
+236,Miles,Weasley,miles.weasley@piedpiperco.com,+1-555-0099,33,evangelist,Yes,Cold Outreach,Phone,0
+237,Clint,Connor,clint.connor@nimbusnetworks.com,+1-555-0966,267,evangelist,No,Trade Show,Email,1
+238,Mike,Barnes,mike.barnes@anchordynamics.com,555-0063,34,salesqualifiedlead,No,Referral,Email,True
+239,Peggy,Barnes,peggy.barnes@gringottsdynamics.com,555-0613,211,opportunity,No,Organic Search,No Preference,True
+240,Clint,Smith,clint.smith@compassllc.com,555.0110,169,opportunity,True,Trade Show,Phone,False
+241,Natasha,Parker,natasha.parker@dufflabs.com,555-0140,228,subscriber,No,Trade Show,SMS,True
+242,Nina,Rhodes,nina.rhodes@orbitglobal.com,(555) 0993,176,subscriber,1,Organic Search,SMS,0
+243,Miles,Hardy,miles.hardy@meridiancorp.com,555-0478,244,marketingqualifiedlead,False,Trade Show,SMS,True
+244,Tony,Potts,tony.potts@summitindustries.com,(555) 0942,22,customer,0,Webinar,No Preference,False
+245,Bucky,Johnson,bucky.johnson@vertexllc.com,555-0075,4,opportunity,Yes,Organic Search,Phone,False
+246,Mike,Smith,mike.smith@quantuminc.com,(555) 0906,146,marketingqualifiedlead,True,Webinar,Phone,Yes
+247,Tony,Smith,tony.smith@umbrelladynamics.com,555-0806,71,marketingqualifiedlead,False,Organic Search,Phone,False
+248,Bill,Pym,bill.pym@duffsystems.com,(555) 0066,223,evangelist,No,Partner,SMS,False
+249,Alicia,Brown,alicia.brown@titanllc.com,555-0301,97,marketingqualifiedlead,Yes,Webinar,No Preference,1
+250,Pepper,Hardy,pepper.hardy@cyberdynedynamics.com,555-0660,199,marketingqualifiedlead,False,Webinar,SMS,False
+251,Rhodey,Rhodes,rhodey.rhodes@quantumindustries.com,555-0809,206,subscriber,0,Organic Search,Phone,False
+252,May,Barnes,may.barnes@soylentventures.com,555.0086,192,marketingqualifiedlead,False,Webinar,Email,False
+253,May,Hogan,may.hogan@fusiongroup.com,555-0509,210,salesqualifiedlead,No,Webinar,SMS,False
+254,Bruce,Carter,bruce.carter@acmecollective.com,555-0080,263,lead,1,Cold Outreach,Email,False
+255,Miles,Barton,miles.barton@nimbusholdings.com,555-0618,141,evangelist,False,Referral,SMS,False
+256,Carol,Danvers,carol.danvers@duffco.com,555-0524,7,lead,True,Webinar,Phone,False
+257,Happy,Barton,happy.barton@anchorinc.com,555-0439,161,customer,False,Organic Search,Email,True
+258,Steve,Doe,steve.doe@massivetechnologies.com,555-0429,182,evangelist,False,Cold Outreach,Email,True
+259,Richard,Sharp,richard.sharp@summitenterprises.com,555-0818,170,opportunity,False,Organic Search,Phone,True
+260,Hope,Barnes,hope.barnes@piedpiperllc.com,555-0985,56,marketingqualifiedlead,1,Partner,Phone,No
+261,Jane,Osborn,jane.osborn@oscorpcorp.com,555.0238,198,salesqualifiedlead,1,Webinar,SMS,False
+262,Carol,Weasley,carol.weasley@beaconlabs.com,555-0489,67,salesqualifiedlead,True,Webinar,Phone,False
+263,Bill,Rogers,bill.rogers@fusionholdings.com,555.0469,258,lead,False,Trade Show,Phone,False
+264,Happy,Potts,happy.potts@waynesystems.com,555-0902,47,marketingqualifiedlead,False,Organic Search,Phone,True
+265,Kate,Leeds,kate.leeds@novastudio.com,555-0097,94,subscriber,0,Cold Outreach,SMS,True
+266,Cave,VanDyne,cave.vandyne@gringottsllc.com,555.0377,284,opportunity,False,Organic Search,No Preference,0
+267,Vision,Brown,vision.brown@gringottspartners.com,555-0691,38,salesqualifiedlead,False,Webinar,No Preference,Yes
+268,Gavin,Hendricks,gavin.hendricks@siriusventures.com,(555) 0069,238,customer,True,Organic Search,SMS,True
+269,Jane,Stark,jane.stark@stellarcorp.com,555.0400,64,customer,False,Cold Outreach,Phone,1
+270,Hope,Johnson,hope.johnson@stellarlabs.com,555-0830,25,customer,True,Organic Search,SMS,True
+271,Sara,Barnes,sara.barnes@piedpipercorp.com,555.0244,128,salesqualifiedlead,1,Cold Outreach,Phone,True
+272,Duffman,Stark,duffman.stark@novasystems.com,555-0045,86,subscriber,False,Trade Show,Phone,False
+273,May,Belson,may.belson@duffgroup.com,5550177,55,subscriber,False,Webinar,Email,False
+274,Kate,Wilson,kate.wilson@piedpipertechnologies.com,555-0785,112,subscriber,True,Cold Outreach,Email,False
+275,Richard,Barton,richard.barton@starksystems.com,555-0682,163,marketingqualifiedlead,No,Organic Search,Phone,True
+276,Duffman,Smith,duffman.smith@stellarcorp.com,555-0755,64,lead,True,Webinar,SMS,True
+277,Nina,Barnes,nina.barnes@beaconpartners.com,555-0742,20,salesqualifiedlead,False,Webinar,SMS,True
+278,Wong,Parker,wong.parker@oscorpworks.com,555-0234,148,marketingqualifiedlead,True,Trade Show,Email,True
+279,Duffman,Barnes,duffman.barnes@novastudio.com,+1-555-0006,94,subscriber,True,Partner,Phone,True
+280,Bruce,Osborn,bruce.osborn@waynetechnologies.com,555-0080,105,salesqualifiedlead,True,Webinar,No Preference,0
+281,Steve,Carter,steve.carter@novaholdings.com,555-0800,104,marketingqualifiedlead,True,Organic Search,No Preference,False
+282,Nina,Rhodes,nina.rhodes@duffllc.com,555-0085,196,marketingqualifiedlead,True,Trade Show,Phone,False
+283,Steve,Potts,steve.potts@orbitsolutions.com,555-0073,288,customer,True,Webinar,Email,Yes
+284,Rhodey,Danvers,rhodey.danvers@compasssystems.com,555-0382,203,marketingqualifiedlead,True,Organic Search,Email,True
+285,Bucky,Weasley,bucky.weasley@stellartechnologies.com,555-0789,224,customer,False,Partner,SMS,False
+286,May,Keys,may.keys@siriusinc.com,555-0370,18,customer,0,Cold Outreach,No Preference,True
+287,Derek,Keys, derek.keys@duffdynamics.com ,+1-555-0789,83,salesqualifiedlead,True,Trade Show,Phone,True
+288,May,Shepherd,may.shepherd@apexpartners.com,555-0674,257,opportunity,False,Partner,Email,Yes
+289,Nina,Grey,nina.grey@oscorpenterprises.com,555-0006,204,evangelist,True,Referral,No Preference,False
+290,May,Weasley,may.weasley@cyberdynestudio.com,555-0202,96,opportunity,False,Trade Show,Phone,1
+291,Norman,Dyson,norman.dyson@fusiongroup.com,555-0934,210,evangelist,True,Cold Outreach,Email,False
+292,Tom,Barton,tom.barton@horizonventures.com,555-0688,121,subscriber,1,Partner,Email,1
+293,Bucky,Pym,bucky.pym@apexdynamics.com,555-0484,137,opportunity,False,Partner,SMS,True
+294,Sam,Danvers,sam.danvers@prismtechnologies.com,555-0894,30,subscriber,No,Partner,Phone,1
+295,Wong,Grey,wong.grey@piedpipercorp.com,555-0633,128,evangelist,False,Partner,Phone,Yes
+296,Jane,Wilson,jane.wilson@atlascollective.com,555-0239,167,salesqualifiedlead,True,Cold Outreach,No Preference,False
+297,Tony,Barnes,tony.barnes@massivepartners.com,555-0890,100,opportunity,True,Webinar,No Preference,False
+298,Scott,Potts,scott.potts@cobaltinc.com,555-0493,229,lead,0,Partner,Email,1
+299,Bill,Maximoff,bill.maximoff@cyberdynecollective.com,555-0263,144,customer,0,Trade Show,No Preference,Yes
+300,Duffman,Hardy,duffman.hardy@horizonsystems.com,555-0760,194,salesqualifiedlead,False,Webinar,Phone,False
+301,Bruce,Belson,bruce.belson@titanllc.com,555-0118,97,lead,False,Trade Show,Email,True
+302,Bucky,Leeds,bucky.leeds@nimbustechnologies.com,555-0956,187,opportunity,True,Referral,No Preference,No
+303,Wanda,Sharp,wanda.sharp@anchorgroup.com,555-0511,152,lead,True,Partner,Email,False
+304,Vision,Belson,vision.belson@meridianco.com,5550848,294,customer,True,Cold Outreach,Phone,True
+305,Duffman,Connor,duffman.connor@nimbusdynamics.com,555-0744,92,evangelist,True,Referral,No Preference,False
+306,Natasha,Danvers,natasha.danvers@starkglobal.com,555-0289,271,lead,False,Referral,Phone,True
+307,Steve,Potts,steve.potts@atlasllc.com,555-0712,296,lead,0,Partner,Email,True
+308,Nina,Barnes,nina.barnes@initechdynamics.com,555-0172,219,subscriber,False,Webinar,Email,Yes
+309,Janet,Leeds,janet.leeds@gringottstechnologies.com,+1-555-0121,207,marketingqualifiedlead,True,Partner,No Preference,True
+310,Happy,Barnes,happy.barnes@dufflabs.com,555.0122,228,salesqualifiedlead,True,Referral,No Preference,True
+311,Janet,Osborn,janet.osborn@duffsystems.com,555.0128,223,customer,True,Organic Search,Email,False
+312,Tom,Pym,tom.pym@prismstudio.com,555-0809,276,evangelist,True,Webinar,Phone,No
+313,Wanda,Belson,wanda.belson@starkventures.com,5550165,295,evangelist,True,Referral,SMS,True
+314,May,Doe,may.doe@starkdynamics.com,555-0531,24,marketingqualifiedlead,False,Webinar,No Preference,False
+315,Kamala,Khan,kamala.khan@duffcollective.com,(555) 0045,51,lead,True,Webinar,Phone,False
+316,Richard,Leeds,richard.leeds@novapartners.com,555-0665,131,salesqualifiedlead,False,Partner,No Preference,True
+317,Hope,Johnson,hope.johnson@nimbusventures.com,555-0713,138,customer,True,Organic Search,Phone,False
+318,Bucky,Smith,bucky.smith@summitholdings.com,555-0127,127,customer,True,Cold Outreach,Email,False
+319,Meredith,Sharp,meredith.sharp@orbitco.com,555-0100,116,lead,True,Referral,Phone,False
+320,Janet,VanDyne,janet.vandyne@waynelabs.com,5550886,179,opportunity,1,Webinar,SMS,False
+321,Norman,Romanoff,norman.romanoff@dufftechnologies.com,555-0903,273,salesqualifiedlead,False,Referral,Phone,True
+322,Bucky,Grey,bucky.grey@duffglobal.com,555-0255,190,salesqualifiedlead,True,Organic Search,SMS,False
+323,Meredith,Leeds,meredith.leeds@aperturecollective.com,5550878,118,salesqualifiedlead,True,Partner,Email,0
+324,Bruce,Weasley,bruce.weasley@quantumgroup.com,555-0567,44,evangelist,False,Partner,Phone,True
+325,Carol,Doe,carol.doe@vertexllc.com,555-0719,4,marketingqualifiedlead,1,Trade Show,No Preference,True
+326,Norman,Hardy,norman.hardy@meridiangroup.com,+1-555-0975,69,salesqualifiedlead,1,Cold Outreach,Phone,True
+327,Peggy,Rogers,peggy.rogers@orbitholdings.com,555-0755,136,salesqualifiedlead,Yes,Partner,Email,False
+328,Sara,Romanoff,sara.romanoff@novapartners.com,555-0005,307,customer,Yes,Referral,Email,True
+329,Bruce,Pym,bruce.pym@starkcollective.com,555-0935,79,lead,False,Webinar,No Preference,False
+330,Sam,Leeds,sam.leeds@lanternnetworks.com,555-0111,275,customer,True,Webinar,SMS,True
+331,Natasha,Dyson,NATASHA.DYSON@QUANTUMINC.COM,555-0404,146,marketingqualifiedlead,True,Partner,Phone,False
+332,Gavin,Parker,gavin.parker@atlassystems.com,+1-555-0731,254,opportunity,False,Webinar,Email,True
+333,Richard,Sharp,richard.sharp@duffco.com,5550242,7,salesqualifiedlead,True,Organic Search,No Preference,False
+334,Bruce,Leeds,bruce.leeds@starkcollective.com,555.0191,79,evangelist,True,Partner,No Preference,1
+335,Vision,Osborn,vision.osborn@vectorgroup.com,555-0135,77,marketingqualifiedlead,True,Organic Search,Email,True
+336,Sara,Barnes,sara.barnes@zenithworks.com,+1-555-0236,157,salesqualifiedlead,No,Partner,Email,False
+337,Sam,Grey,sam.grey@beaconindustries.com,555.0916,215,subscriber,Yes,Webinar,SMS,True
+338,May,Osborn,may.osborn@cyberdyneholdings.com,555.0311,252,customer,True,Cold Outreach,SMS,False
+339,Janet,Pym,janet.pym@anchorpartners.com,555-0215,122,subscriber,True,Partner,Email,0
+340,Miles,Hogan,miles.hogan@nimbusstudio.com,555-0633,39,customer,True,Trade Show,Phone,0
+341,Peter,Bishop,peter.bishop@hooliholdings.com,555-0916,287,customer,False,Referral,No Preference,True
+342,Bill,Grey,bill.grey@beaconlabs.com,555-0978,67,evangelist,True,Partner,No Preference,True
+343,Bill,Hogan,bill.hogan@siriusgroup.com,555-0399,197,marketingqualifiedlead,1,Webinar,Phone,True
+344,Vision,Potts,vision.potts@apexglobal.com,5550872,269,opportunity,0,Referral,Phone,True
+345,Meredith,Hendricks,meredith.hendricks@apextechnologies.com,555-0254,27,lead,True,Partner,SMS,False
+346,Wanda,Wayne,wanda.wayne@massivenetworks.com,555-0136,282,opportunity,True,Partner,Email,True
+347,Meredith,Osborn,meredith.osborn@nimbusglobal.com,555-0888,9,evangelist,False,Partner,SMS,True
+348,Ned,Beer,ned.beer@waynetechnologies.com,555-0827,105,salesqualifiedlead,0,Partner,No Preference,False
+349,Bruce,VanDyne,bruce.vandyne@atlasstudio.com,+1-555-0180,95,customer,Yes,Referral,SMS,0
+350,Carol,Dyson,carol.dyson@initechcorp.com,555-0465,37,salesqualifiedlead,0,Partner,Email,False
+351,Bucky,Smith,bucky.smith@duffco.com,555-0659,7,lead,1,Cold Outreach,Phone,True
+352,John,Stark,john.stark@gringottsstudio.com,+1-555-0087,174,evangelist,False,Webinar,SMS,True
+353,Alicia,Connor,alicia.connor@apexdynamics.com,555.0126,137,subscriber,True,Trade Show,No Preference,0
+354,Jane,Beer,jane.beer@prismglobal.com,+1-555-0293,76,customer,True,Organic Search,Phone,True
+355,Tony,Carter,tony.carter@vectornetworks.com,555-0945,171,subscriber,True,Webinar,No Preference,True
+356,May,Sharp,may.sharp@meridiansystems.com,555-0293,155,subscriber,False,Partner,SMS,True
+357,John,Sharp,john.sharp@prismglobal.com,555-0399,76,evangelist,False,Referral,Email,False
+358,Nina,Wayne,nina.wayne@horizonglobal.com,555-0394,66,salesqualifiedlead,False,Trade Show,SMS,0
+359,Bucky,Parker,bucky.parker@prismstudio.com,555-0545,276,lead,False,Trade Show,Phone,True
+360,Sam,Doe,sam.doe@nimbusglobal.com,555-0485,9,subscriber,Yes,Cold Outreach,Phone,True
+361,Scott,Parker,SCOTT.PARKER@COBALTSYSTEMS.COM,(555) 0141,115,salesqualifiedlead,False,Cold Outreach,Email,True
+362,Pepper,Weasley,pepper.weasley@acmeenterprises.com,+1-555-0250,188,lead,False,Partner,Phone,False
+363,Pepper,Parker,pepper.parker@dufflabs.com,555.0711,228,lead,1,Trade Show,Phone,True
+364,Carol,Leeds,carol.leeds@novanetworks.com,5550849,233,customer,0,Cold Outreach,Email,True
+365,Cave,Danvers,cave.danvers@cyberdyneworks.com,555-0842,113,opportunity,True,Partner,No Preference,False
+366,Bucky,Weasley,bucky.weasley@duffsolutions.com,555.0199,191,subscriber,False,Referral,Phone,True
+367,Tom,Johnson,tom.johnson@lanternstudio.com,555-0206,159,subscriber,1,Trade Show,Email,False
+368,Mike,Connor, mike.connor@lanternstudio.com ,555-0365,159,salesqualifiedlead,False,Organic Search,SMS,True
+369,Clint,Parker,clint.parker@fusionholdings.com,555-0826,258,subscriber,False,Organic Search,Email,True
+370,Happy,Wayne,happy.wayne@apertureinc.com,555-0237,48,evangelist,True,Partner,Phone,False
+371,Ned,Hendricks,ned.hendricks@soylentcorp.com,555-0962,185,customer,False,Webinar,Phone,True
+372,Nina,VanDyne,nina.vandyne@beaconcorp.com,555-0891,8,evangelist,True,Organic Search,Email,True
+373,Peggy,Weasley,peggy.weasley@atlasllc.com,+1-555-0091,296,marketingqualifiedlead,False,Organic Search,Phone,False
+374,Mike,Wilson,mike.wilson@quantumindustries.com,555-0634,206,lead,False,Cold Outreach,Email,False
+375,Derek,Brown,derek.brown@prismtechnologies.com,555-0250,30,opportunity,1,Cold Outreach,No Preference,No
+376,Tom,Beer,tom.beer@acmecorp.com,555-0357,237,customer,False,Referral,Email,1
+377,Carol,Leeds,carol.leeds@compassllc.com,555-0350,169,salesqualifiedlead,No,Referral,SMS,True
+378,Pepper,Sharp,pepper.sharp@atlaslabs.com,555-0615,164,subscriber,False,Organic Search,No Preference,0
+379,Jane,Leeds,jane.leeds@novallc.com,555.0070,91,marketingqualifiedlead,False,Organic Search,Phone,False
+380,Norman,Connor,norman.connor@quantumholdings.com,(555) 0771,220,marketingqualifiedlead,False,Organic Search,Phone,False
+381,Natasha,Barnes,natasha.barnes@orbitsolutions.com,(555) 0611,288,marketingqualifiedlead,False,Referral,Phone,True
+382,Rhodey,Maximoff,rhodey.maximoff@atlascorp.com,+1-555-0739,209,evangelist,False,Partner,Email,0
+383,Peter,Khan,peter.khan@horizonsystems.com,555-0214,194,customer,True,Cold Outreach,SMS,Yes
+384,Vision,Belson,vision.belson@siriusworks.com,555-0360,234,opportunity,False,Referral,Phone,False
+385,Norman,Bishop,norman.bishop@fusionlabs.com,555-0291,278,customer,False,Partner,Email,True
+386,Bruce,Smith,bruce.smith@gringottsdynamics.com,555-0767,211,opportunity,No,Trade Show,Email,False
+387,Cave,Beer,cave.beer@oscorpnetworks.com,555-0200,283,subscriber,False,Organic Search,No Preference,Yes
+388,Duffman,Lang,duffman.lang@orbitholdings.com,555-0924,136,salesqualifiedlead,True,Organic Search,Email,0
+389,Sam,Pym,sam.pym@starksystems.com,555-0982,163,salesqualifiedlead,No,Webinar,No Preference,False
+390,Richard,Barnes,richard.barnes@waynestudio.com,555-0325,89,salesqualifiedlead,0,Trade Show,Email,False
+391,Derek,Bishop,derek.bishop@horizonenterprises.com,555.0095,166,customer,True,Referral,Email,True
+392,Richard,Potts,richard.potts@meridiandynamics.com,555-0668,184,marketingqualifiedlead,0,Partner,No Preference,True
+393,Meredith,Wayne,meredith.wayne@soylentindustries.com,555-0593,12,subscriber,True,Referral,Phone,True
+394,Bruce,Hardy,bruce.hardy@wayneworks.com,555-0212,186,salesqualifiedlead,False,Referral,No Preference,True
+395,Cave,Parker,cave.parker@anchorinc.com,555-0461,161,lead,True,Partner,Email,Yes
+396,Natasha,Rhodes, natasha.rhodes@anchorlabs.com ,555-0534,280,subscriber,1,Trade Show,Email,True
+397,Cave,Wilson, cave.wilson@piedpipertechnologies.com ,(555) 0141,112,marketingqualifiedlead,True,Referral,SMS,False
+398,Happy,VanDyne,happy.vandyne@summitpartners.com,5550256,205,salesqualifiedlead,Yes,Webinar,Phone,False
+399,May,Hogan,may.hogan@piedpiperglobal.com,+1-555-0637,140,salesqualifiedlead,Yes,Cold Outreach,Email,True
+400,Vision,Shepherd,vision.shepherd@duffpartners.com,555-0898,151,opportunity,True,Referral,Phone,False
